@@ -1,89 +1,31 @@
-customer_n,identifier,tel,c_nme
+customer_n,identifier,contact,c_nme
 "Foss, Jason",1192991000,(949) 569-4371,Bizzingo
-"Roup,Simon",1106026933,800 456 8321,Bizzler Corporation
+"Roup,Simon",1106026933,email@gmail.com,Bizzler Corporation
 "Ruiz, Ricardo",1001175250,(630) 446-8851,Bizzuka
 "Monroe, Peter",1011022863,1-888-432-0983,BJ100.com
 "Dougall, Eric",1101023754,(226) 906-2721,Bjond
 "Clayton, Rick",1301052902,(671) 925-1352,Bkam
-"Galia, Lisa",1501072093,617 584 5680,BL Healthcare
+"Galia, Lisa",1501072093,email@gmail.com,BL Healthcare
 "Lindsay, Leonara ",602000312,1-888-432-0983,Blaast
 "Soto, Julia ",1203032263,(251) 546-9442,Blab Inc.
 "Bacong, Alejandro ",1212052023,212-345-9078,blabfeed
-"Cisco, Anthony",1102024173,(125) 546-4477,BlaBlaCar
+"Cisco, Anthony",1102024173,cisco@hotmail.com,BlaBlaCar
 "Dolan, Linda",1101023540,(949) 569-4371,Blabroom
 "Gonzalez, Maria",1988299991,800 456 8321,Altia Systems
 "Merlos, Carlos",1012023013,(630) 446-8851,Alticast
-"Morway, Tanya",1001956578,1-888-432-0983,Altierre
+"Morway, Tanya",1001956578,t.morway@outlook.fr,Altierre
 "Shepard, Anita ",906014183,(226) 906-2721,AltiGen Communications
 "Tredinnick, Neville ",1104025466,(671) 925-1352,Blokify
-"Turpin, Jumil",1411071506,617 584 5680,Blokkd Inc.
+"Turpin, Jumil",1411071506,neville.Tr@gmail.com,Blokkd Inc.
 "Ait Sidi, Karthikeyan   ",1307060199,1-888-432-0983,Blomming
 "Carr, Claudia  N",1010022337,(251) 546-9442,BlooBox
 "Favis, Donald  ",1412071562,212-345-9078,Blood cell Storage
 "Roehrich, Bianca",1111030266,(125) 546-4477,"Blood Monitoring Solutions, Inc."
-"Daniele, Ann  ",1411071312,(949) 569-4371,Altia Systems
+"Daniele, Ann  ",1411071312,myemail@mydomain.com,Altia Systems
 "Lajiri,  Jyoti",1108028108,800 456 8321,Alticast
 "Semizoglou, Jeremiah  ",904013591,(630) 446-8851,Altierre
 "South, Joe",1308060959,1-888-432-0983,AltiGen Communications
-"Warfield, Sarah",1301052347,(226) 906-2721,ALTILIA
+"Warfield, Sarah",1301052347,example@test.com,ALTILIA
 "Bramante, Elisa",1006020066,(671) 925-1352,Blackstar Amplification
 "Albert, Michael  ",1501072311,617 584 5680,Blackstone Digital Agency
 "Bozzi, Charles",1303054580,1-888-432-0983,Blackstrap
-"Butler, Webster  L",1110029990,(251) 546-9442,BlackStratus
-"Dunn, Amy  ",1409070147,212-345-9078,Blacksumac
-"Gray, Elijiah  ",1307060077,(125) 546-4477,Blackwave
-"Hogland, Jonathan ",1001944783,(949) 569-4371,Althea Systems
-"Immediato, Walter",1403065874,800 456 8321,AltheaDx
-"Liebig, Ketsia",1103024679,(630) 446-8851,Altheos
-"Miller, Brannon",1107027351,1-888-432-0983,AltheRx Pharmaceuticals
-"Peterson, Ebonee  ",1402065355,(226) 906-2721,Altheus Therapeutics
-"Spirea, Kelley",1102024149,(671) 925-1352,ALTHIA
-"Stanley, David ",1000974650,617 584 5680,Alti Semiconductor
-"Sullivan, Kissy ",1405067298,1-888-432-0983,Altia
-"Wallace, Courtney  E",1410071026,(251) 546-9442,Altia Systems
-"Adinolfi, Wilson  K",1409070522,212-345-9078,Alticast
-"Alagbe,Trina",1011022883,(125) 546-4477,Altierre
-"Anderson, Carol ",1001417624,(949) 569-4371,AltiGen Communications
-"Anderson, Linda  ",1304055947,800 456 8321,ALTILIA
-"Athwal, Sam",1301052124,(630) 446-8851,Altimet
-"Bachiochi, Linda",1212051409,1-888-432-0983,Altiostar Networks
-"Baczenski, Rachael  ",1307060083,(226) 906-2721,"Altiostar Networks, Inc."
-"Barbara, Thomas",1312063507,(671) 925-1352,Altitude Co
-"Barone, Francesco  A",1101023679,617 584 5680,Altitude Digital
-"Barton, Nader",1212051962,PhoneNumber,Altitude Games
-"Beatrice, Courtney ",1403066194,(251) 546-9442,Altius Education
-"Becker, Scott",1110029777,212-345-9078,ALTO CINCO
-"Bernstein, Sean",1109029366,(125) 546-4477,Altobeam
-"Biden, Lowan  M",1412071844,(949) 569-4371,Altobridge
-"Billis, Helen",1308060366,800 456 8321,Altocom
-"Brill, Donna",1406068293,(630) 446-8851,Alton Lane
-"Bugali, Josephine ",1408069635,1-888-432-0983,Altor BioScience
-"Carey, Michael  ",1311063114,(226) 906-2721,Altor Networks
-"Chace, Beatrice ",1208048062,(671) 925-1352,Altos Design Automation
-"Chan, Lin",1305057282,617 584 5680,AltraBiofuels
-"Chang, Donovan  E",1111030129,1-888-432-0983,AltraTech
-"Chivukula, Enola",1101023394,(251) 546-9442,AltraVax
-"Cierpiszewski, Caroline  ",1012023295,212-345-9078,Altrec.com
-"Clukey, Elijian",1407069280,(125) 546-4477,Altruik
-"Cockel, James",1599991009,(949) 569-4371,Altruja
-"Cole, Spencer",1001450968,800 456 8321,AltSchool
-"Cornett, Lisa ",1403066069,(630) 446-8851,AltspaceVR
-"Crimmings,   Jean",1311063172,1-888-432-0983,Altura Medical
-"Darson, Jene'ya ",1001109612,(226) 906-2721,Alum.ni
-"DeGweck,  James",1306058816,(671) 925-1352,AlumniFunder
-"Desimone, Carl ",1501072124,617 584 5680,Alumnize
-"Dickinson, Geoff ",706006285,1-888-432-0983,ALung Technologies
-"DiNocco, Lily ",1209048696,(251) 546-9442,Aluwave
-"Dobrin, Denisa  S",1202031618,212-345-9078,Alve Technology
-"Eaton, Marianne",1406067865,(125) 546-4477,Alverix
-"Engdahl, Jean",1007020403,(949) 569-4371,Alvine Pharmaceuticals
-"England, Rex",1101023612,800 456 8321,Black & Veatch
-"Estremera, Miguel",1104025243,(630) 446-8851,Black Box Biofuels
-"Evensen, April",1107027392,1-888-432-0983,Black Card Media
-"Ferguson, Susan",1502072511,(226) 906-2721,Black Chair Group
-"Fernandes, Nilson  ",1302053339,(671) 925-1352,Black coin
-"Ferreira, Violeta",803009012,617 584 5680,Black Drumm
-"Fidelia,  Libby",1006020020,1-888-432-0983,Black Duck Software
-"Garcia, Raul",1309061015,(251) 546-9442,Black Fox Meadery Corp
-"Garneau, Hamish",1104025414,212-345-9078,Black Hammer Brewing
-"Gaul, Barbara",1105026041,(125) 546-4477,Black House
