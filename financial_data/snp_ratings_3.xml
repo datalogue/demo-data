@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns:r="http://xbrl.sec.gov/ratings/2015-03-31"
+xmlns:link="http://www.xbrl.org/2003/linkbase"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xl="http://www.xbrl.org/2003/xl"
+xmlns:xbrli="http://www.xbrl.org/2003/instance"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://xbrl.sec.gov/ratings/2015-03-31 http://xbrl.sec.gov/rocr/2015/ratings-2015-03-31.xsd">
+<link:schemaRef xlink:type="simple" xlink:href="http://xbrl.sec.gov/rocr/2015/ratings-2015-03-31.xsd"/>
+<xbrli:context id="m">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.sec.gov/NRSRO"> Standard &amp; Poor's Ratings Services </xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2011-06-15</xbrli:startDate>
+<xbrli:endDate>2018-04-16</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<r:ROCRA xmlns:r="http://xbrl.sec.gov/ratings/2015-03-31" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<r:RAN contextRef="m">Standard &amp; Poor's Ratings Services</r:RAN>
+<r:FCD contextRef="m">2019-04-01</r:FCD>
+<r:OD>
+<r:OSC contextRef="m">Insurance</r:OSC>
+<r:OBNAME contextRef="m">The Prudential Gibraltar Financial Life Insurance Co. Ltd.</r:OBNAME>
+<r:LEI contextRef="m">549300RKRRZ5QGNL7V50</r:LEI>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2010-09-30</r:RAD>
+<r:RAC contextRef="m">HS</r:RAC>
+<r:WST contextRef="m"></r:WST>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m"></r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2011-07-04</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2012-07-12</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2013-04-02</r:RAD>
+<r:RAC contextRef="m">UP</r:RAC>
+<r:WST contextRef="m"></r:WST>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m"></r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2013-05-22</r:RAD>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2013-12-11</r:RAD>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2014-12-22</r:RAD>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2015-09-17</r:RAD>
+<r:RAC contextRef="m">DG</r:RAC>
+<r:WST contextRef="m"></r:WST>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m"></r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2015-12-14</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2016-12-26</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2017-04-13</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2018-01-22</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2018-04-16</r:RAD>
+<r:ROL contextRef="m">Positive</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Financial Strength Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2010-09-30</r:RAD>
+<r:RAC contextRef="m">HS</r:RAC>
+<r:WST contextRef="m"></r:WST>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m"></r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2011-07-04</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2012-07-12</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2013-04-02</r:RAD>
+<r:RAC contextRef="m">UP</r:RAC>
+<r:WST contextRef="m"></r:WST>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m"></r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2013-05-22</r:RAD>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2013-12-11</r:RAD>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">AA-</r:R>
+<r:RAD contextRef="m">2014-12-22</r:RAD>
+<r:ROL contextRef="m">Negative</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2015-09-17</r:RAD>
+<r:RAC contextRef="m">DG</r:RAC>
+<r:WST contextRef="m"></r:WST>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m"></r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2015-12-14</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2016-12-26</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2017-04-13</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2018-01-22</r:RAD>
+<r:ROL contextRef="m">Stable</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+<r:ORD>
+<r:IP contextRef="m">true</r:IP>
+<r:R contextRef="m">A+</r:R>
+<r:RAD contextRef="m">2018-04-16</r:RAD>
+<r:ROL contextRef="m">Positive</r:ROL>
+<r:OAN contextRef="m">Affirmation</r:OAN>
+<r:RT contextRef="m">Local Currency LT</r:RT>
+<r:RST contextRef="m">Issuer Credit Rating</r:RST>
+<r:RTT contextRef="m"></r:RTT>
+</r:ORD>
+</r:OD>
+</r:ROCRA>
+</xbrli:xbrl>
