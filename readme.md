@@ -7,3 +7,5 @@ A bibliography of some of the data sources:
 * https://github.com/synthetichealth/synthea
 * https://www.law.ox.ac.uk/business-law-blog/blog/2018/03/making-credit-ratings-data-publicly-available
 * https://github.com/cisco-ie/telemetry
+* http://federalgovernmentzipcodes.us/
+* https://catalog.data.gov/dataset/
