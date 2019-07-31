@@ -1,4 +1,4 @@
-timestamp hostname message_id message
+all
 May  1 00:00:16 cts03wsptma.netops.charter.com CMTS[CADANT]:<2473097480> [06.0000041586] [ACT] IPDR report interval missed.
 May  1 00:00:16 cts03wsptma.netops.charter.com CMTS[CADANT]:<2473097474> [06.0000041587] [ACT] <ipdr> [1.samis-1.time] Interval missed. Unable to start this scheduled interval since there are no active collectors.
 May  1 00:15:16 cts03wsptma.netops.charter.com CMTS[CADANT]:<2473097480> [06.0000041588] [ACT] IPDR report interval missed.
