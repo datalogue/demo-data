@@ -1,0 +1,775 @@
+﻿main_ServiceProvider,main_Device_Manufacturer,main_Device_Model,main_Device_OS,main_Device_DeviceLanguage,main_QOS_QOSDate,main_QOS_SignalStrength,main_QOS_Location_Latitude,main_QOS_Location_Longitude,main_QOS_DeltaTransmittedBytes,main_QOS_DeltaReceivedBytes,main_Country,main_Region,main_City,conn_Generation_Category
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-06-16 22:58:46 UTC,null,41.5582666,-80.5026862,1624712,38406075,United States,Pennsylvania,null,4G
+Verizon Wireless,LGE,LG-VS450PP,ANDROID44,en,2017-05-12 19:34:32 UTC,null,32.16325762,-81.21124252,2615,1564,United States,Georgia,Savannah,3G
+Verizon Wireless,LGE,VS500PP,ANDROID60,en,2017-05-18 06:10:36 UTC,null,39.9228293,-80.070744,0,0,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-05-11 15:31:47 UTC,-82,27.62481769,-82.54185079,0,0,United States,Florida,null,4G
+Verizon Wireless,Sony,D6708,ANDROID51,en,2017-06-21 21:32:43 UTC,null,41.5445047,-72.9244584,122347,294465,United States,Connecticut,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-06 00:40:08 UTC,-58,39.9142845,-74.9706969,0,0,United States,New Jersey,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-06-10 02:30:58 UTC,null,47.7912372,-95.078629,4688,2260,United States,Minnesota,null,4G
+Verizon Wireless,LGE,VS415PP,ANDROID44,en,2017-05-11 18:49:53 UTC,null,41.53614772,-88.0875542,0,0,United States,Illinois,Joliet,3G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-14 18:10:41 UTC,null,46.82891597,-95.87957153,14275,57982,United States,Minnesota,null,4G
+Verizon Wireless,motorola,XT1030,ANDROID44,en,2017-07-27 21:01:20 UTC,null,42.5422528,-71.7599609,38684,27396,United States,Massachusetts,Leominster,4G
+Verizon Wireless,HTC,HTC6545LVW,ANDROID70,en,2017-07-29 23:41:36 UTC,-86,47.5549019,-95.2274031,3618,24072,United States,Minnesota,null,4G
+Verizon Wireless,HTC,HTCD100LVW,ANDROID60,en,2017-07-27 14:39:39 UTC,-70,36.1132561,-115.1390172,0,0,United States,Nevada,Paradise,4G
+Verizon Wireless,blackberry,STV100-2,ANDROID60,en,2017-06-13 12:32:07 UTC,null,42.3816665,-70.9955101,2166,7729,United States,Massachusetts,Boston,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-24 11:23:44 UTC,-75,44.0157452,-69.921011,0,0,United States,Maine,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-18 22:11:06 UTC,null,44.8991293,-123.0392933,2393,963,United States,Oregon,Salem,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-08 23:35:14 UTC,null,42.3322113,-71.1343959,138,138,United States,Massachusetts,Brookline,3G
+Verizon Wireless,motorola,Moto G (4),ANDROID70,en,2017-07-12 14:56:15 UTC,null,37.105566,-113.5573537,3890,18070,United States,Utah,Saint George,4G
+Verizon Wireless,motorola,XT1565,ANDROID60,en,2017-07-28 17:46:33 UTC,null,38.7686446,-90.5098257,2596,356,United States,Missouri,null,UNKNOWN
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-28 16:42:36 UTC,-61,35.5165944,-97.51252,2108,4643,United States,Oklahoma,Oklahoma City,4G
+Verizon Wireless,motorola,XT1060,ANDROID51,en,2017-07-24 16:25:12 UTC,-74,37.3604421,-79.2025565,3364,7158,United States,Virginia,Lynchburg,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-21 12:45:14 UTC,null,37.2646597,-76.8745114,75270,229866,United States,Virginia,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-07 15:08:44 UTC,-80,32.6541695,-117.0649619,580,0,United States,California,National City,4G
+Verizon Wireless,LGE,VS880PP,ANDROID51,en,2017-07-26 15:22:53 UTC,-120,35.4643204,-86.3643257,1359,6212,United States,Tennessee,null,4G
+Verizon Wireless,HTC,HTCD100LVW,ANDROID60,en,2017-07-21 17:19:38 UTC,-68,36.1132613,-115.1389941,104,0,United States,Nevada,Paradise,4G
+Verizon Wireless,motorola,XT1030,ANDROID44,en,2017-07-29 14:19:07 UTC,-83,35.8486711,-83.9983396,964,681,United States,Tennessee,null,4G
+Verizon Wireless,motorola,XT1060,ANDROID51,en,2017-07-28 21:55:57 UTC,null,39.3101273,-76.639117,0,0,United States,Maryland,Baltimore,4G
+Verizon Wireless,samsung,SM-J727V,ANDROID70,en,2017-07-17 19:07:02 UTC,-67,46.0980675,-122.9679048,0,0,United States,Oregon,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-13 13:26:39 UTC,null,42.28633867,-89.32086006,972,2939,United States,Illinois,null,4G
+Verizon Wireless,motorola,XT1528,ANDROID51,en,2017-07-27 15:01:13 UTC,null,40.8685555,-103.6970909,13460,11860,United States,Colorado,null,3G
+Verizon Wireless,HTC,HTC6600LVW,ANDROID44,en,2017-07-24 12:52:49 UTC,null,34.7065637,-87.119254,0,0,United States,Alabama,null,3G
+Verizon Wireless,samsung,SM-N915V,ANDROID60,en,2017-06-08 03:08:55 UTC,-62,41.501784,-74.0328746,15558,55503,United States,New York,Newburgh,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-10 18:07:05 UTC,null,38.1991952,-122.714882,37399,95269,United States,California,null,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-29 16:50:05 UTC,null,39.6108346,-75.9504152,0,0,United States,Maryland,null,4G
+Verizon Wireless,motorola,XT1060,ANDROID51,en,2017-07-11 17:31:15 UTC,-72,37.3605602,-79.2028005,36656,165800,United States,Virginia,Lynchburg,4G
+Verizon Wireless,motorola,Moto G Play,ANDROID60,en,2017-07-23 23:49:55 UTC,null,32.94107936,-103.3619882,0,0,United States,New Mexico,null,4G
+Verizon Wireless,motorola,XT1575,ANDROID60,en,2017-07-08 15:55:55 UTC,null,42.19049127,-71.86723845,0,0,United States,Massachusetts,Auburn,4G
+Verizon Wireless,HTC,HTCD200LVW,ANDROID60,en,2017-07-18 19:11:42 UTC,null,37.4752278,-77.5939881,1001,2149,United States,Virginia,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-16 17:44:38 UTC,null,33.5724855,-84.3519448,312,470,United States,Georgia,null,4G
+Verizon Wireless,LGE,VS980 4G,ANDROID44,en,2017-05-20 20:40:15 UTC,-80,32.41639827,-89.50212667,270994,521726,United States,Mississippi,null,4G
+Verizon Wireless,kyocera,E6782,ANDROID44,en,2017-07-26 21:37:56 UTC,-102,44.49037191,-71.68888841,580,580,United States,Vermont,null,3G
+Verizon Wireless,motorola,Moto G (5) Plus,ANDROID70,en,2017-07-26 20:38:04 UTC,-72,40.026653,-75.0246633,1205,1268,United States,Pennsylvania,Philadelphia,4G
+Verizon Wireless,motorola,XT1030,ANDROID44,en,2017-07-16 22:14:42 UTC,null,39.4118791,-77.4059131,228,1633,United States,Maryland,Frederick,4G
+Verizon Wireless,motorola,Moto G Play,ANDROID60,en,2017-07-22 16:53:36 UTC,-80,36.261031,-86.5308705,650,384,United States,Tennessee,null,4G
+Verizon Wireless,LGE,VS986,ANDROID60,en,2017-07-25 20:23:24 UTC,-75,40.06901712,-74.12693935,1945,1925,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-J320V,ANDROID60,en,2017-07-30 07:47:53 UTC,-88,31.4316689,-85.6395729,580,580,United States,Alabama,null,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-23 19:17:44 UTC,null,36.1461291,-115.2252328,2002,3211,United States,Nevada,Las Vegas,4G
+Verizon Wireless,motorola,Moto G (5) Plus,ANDROID70,en,2017-07-08 20:45:50 UTC,null,45.04868904,-93.11262636,0,0,United States,Minnesota,Shoreview,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-19 17:12:45 UTC,null,42.9395569,-78.8543771,868,811,United States,New York,Buffalo,3G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-31 00:11:00 UTC,null,41.0232551,-81.0160212,7090,18691,United States,Ohio,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-21 02:00:02 UTC,null,42.3769381,-87.9645053,290,145,United States,Illinois,Gurnee,4G
+Verizon Wireless,HTC,HTC6535LVW,ANDROID60,en,2017-07-27 00:47:25 UTC,null,37.2821329,-80.0515713,0,0,United States,Virginia,Salem,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-24 18:51:23 UTC,null,44.007642,-97.1066564,7686,26058,United States,South Dakota,null,4G
+Verizon Wireless,motorola,XT1635-01,ANDROID70,en,2017-07-24 23:59:25 UTC,null,42.1779608,-87.8219878,4975,47290,United States,Illinois,Highland Park,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-30 11:17:34 UTC,-80,36.807813,-77.7624911,683,348,United States,Virginia,null,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-24 21:23:20 UTC,null,30.1185975,-95.6518043,3675056,78634760,United States,Texas,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-19 09:38:42 UTC,-58,40.54762618,-75.66647721,0,0,United States,Pennsylvania,null,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-06-14 03:38:51 UTC,null,29.4910959,-95.1175779,14540,15792,United States,Texas,League City,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,es,2017-07-22 23:58:14 UTC,null,32.7308913,-117.1508205,3229,2070,United States,California,San Diego,4G
+Verizon Wireless,motorola,XT1575,ANDROID60,en,2017-07-17 18:14:24 UTC,null,37.23071873,-77.316311,11351,26385,United States,Virginia,null,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-12 17:52:00 UTC,null,37.6282069,-110.7248814,5540,25947,United States,Utah,null,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-13 19:21:39 UTC,-86,26.8929643,-82.0255578,440,0,United States,Florida,Punta Gorda,4G
+Verizon Wireless,motorola,Moto G (5) Plus,ANDROID70,en,2017-07-16 06:20:19 UTC,null,35.60154063,-105.9128656,7100,6171255,United States,New Mexico,null,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-22 23:34:02 UTC,null,45.793984,-87.1197744,1603,49719,United States,Michigan,null,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-22 15:56:47 UTC,-79,35.6530462,-109.1096548,118648,1912552,United States,Arizona,null,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-22 18:29:18 UTC,-64,41.7559377,-124.1956168,184080,365600,United States,California,null,4G
+Verizon Wireless,motorola,XT1030,ANDROID44,en,2017-07-24 16:24:24 UTC,-48,38.8984958,-77.0295984,4020,1156,United States,District of Columbia,District of Columbia,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-13 18:55:41 UTC,null,33.4899925,-81.9473321,72,488,United States,South Carolina,North Augusta,4G
+Verizon Wireless,kyocera,E6782,ANDROID44,en,2017-07-25 02:42:44 UTC,null,33.84310601,-82.51210921,4088,7758,United States,Georgia,null,4G
+Verizon Wireless,motorola,XT1528,ANDROID51,en,2017-07-10 18:27:08 UTC,null,42.2547847,-77.2164219,56465,99613,United States,New York,null,4G
+Verizon Wireless,motorola,Moto G Play,ANDROID60,en,2017-07-08 22:04:22 UTC,-74,34.48969053,-118.6182202,29926,95549,United States,California,null,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-25 01:22:18 UTC,null,35.6051474,-105.9955927,101247,92578,United States,New Mexico,null,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID70,en,2017-07-17 22:24:50 UTC,null,36.8346474,-108.0237222,44799,468116,United States,New Mexico,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-23 00:05:17 UTC,null,43.5171551,-96.7611999,3450,8802,United States,South Dakota,Sioux Falls,4G
+Verizon Wireless,motorola,DROID RAZR HD,ANDROID44,en,2017-07-24 22:38:46 UTC,-67,42.4792914,-96.3524705,352,352,United States,Iowa,Sioux City,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-30 17:55:29 UTC,-68,36.6217089,-82.1920038,1408,835,United States,Virginia,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-22 22:48:54 UTC,null,28.5088074,-81.2669287,139,0,United States,Florida,null,UNKNOWN
+Verizon Wireless,samsung,SM-G925V,ANDROID70,en,2017-05-25 07:50:31 UTC,-81,47.4425049,-122.2007673,52,0,United States,Washington,null,4G
+Verizon Wireless,LGE,VS425PP,ANDROID51,en,2017-07-23 12:49:10 UTC,null,32.4352081,-94.8022899,12676,43116,United States,Texas,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-29 18:55:22 UTC,-69,40.0081537,-79.0819818,788,958,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SM-J100VPP,ANDROID51,en,2017-07-25 22:55:18 UTC,null,32.5024497,-95.6263327,12944,20645,United States,Texas,null,4G
+Verizon Wireless,LGE,VS990,ANDROID60,en,2017-07-12 00:17:28 UTC,null,45.20909126,-122.600714,24090,106250,United States,Oregon,null,4G
+Verizon Wireless,kyocera,E6782,ANDROID44,en,2017-07-25 19:55:47 UTC,null,43.02004427,-87.98745212,5694,7386,United States,Wisconsin,West Allis,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-11 15:47:30 UTC,null,33.7680795,-84.3855286,10506,14496,United States,Georgia,Atlanta,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-25 00:41:31 UTC,-74,41.6677113,-88.0225986,1048,835,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-N915V,ANDROID60,en,2017-06-03 17:17:10 UTC,null,33.6666268,-117.1701769,17183,21374,United States,California,null,4G
+Verizon Wireless,motorola,Moto G Play,ANDROID60,en,2017-07-22 18:05:12 UTC,null,33.6789471,-117.8913293,6987,19267,United States,California,Costa Mesa,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-28 21:37:54 UTC,null,34.1059388,-117.5546113,2118,5310,United States,California,Rancho Cucamonga,4G
+Verizon Wireless,motorola,Moto G (4),ANDROID70,en,2017-07-13 01:13:41 UTC,null,34.0102686,-118.3990108,128,256,United States,California,Culver City,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-28 02:56:10 UTC,null,33.8308113,-117.2247035,527676,152910,United States,California,Perris,4G
+Verizon Wireless,motorola,Moto G Play,ANDROID60,en,2017-07-28 19:20:03 UTC,null,33.6680853,-117.8825025,0,0,United States,California,Costa Mesa,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-07-24 10:28:54 UTC,-59,33.8291454,-118.0469678,51162,25312,United States,California,Cypress,4G
+Verizon Wireless,LGE,VS987,ANDROID70,en,2017-07-07 12:33:07 UTC,null,39.975077,-83.2156416,8132,19149,United States,Ohio,null,4G
+Verizon Wireless,blackberry,STV100-2,ANDROID60,en,2017-07-02 15:10:42 UTC,-77,43.6357951,-84.2238477,0,0,United States,Michigan,Midland,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-06-20 11:42:32 UTC,null,41.103913,-81.322035,0,0,United States,Ohio,null,4G
+Verizon Wireless,blackberry,STV100-2,ANDROID60,en,2017-07-02 14:53:22 UTC,-81,43.6354195,-84.2241437,0,382,United States,Michigan,Midland,4G
+Verizon Wireless,Sony,D6708,ANDROID51,en,2017-07-19 00:38:23 UTC,-76,41.336289,-81.8194274,9910,12316,United States,Ohio,Strongsville,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-12 11:51:47 UTC,-84,39.9572109,-83.0221123,580,580,United States,Ohio,Columbus,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-22 16:55:50 UTC,-72,45.0609914,-85.257721,816,0,United States,Michigan,null,4G
+Verizon Wireless,LGE,VS890 4G,ANDROID44,en,2017-07-12 11:07:22 UTC,-87,42.9947634,-84.5471206,1888,1888,United States,Michigan,null,4G
+Verizon Wireless,motorola,XT1575,ANDROID60,en,2017-07-27 20:22:52 UTC,null,41.1345587,-83.3306948,20888,40906,United States,Ohio,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-12 12:44:35 UTC,null,42.5085631,-83.4741522,3762,8213,United States,Michigan,Novi,4G
+Verizon Wireless,samsung,SM-J320VPP,ANDROID60,en,2017-07-20 00:53:24 UTC,-35,40.001966,-82.9972014,8844,8814,United States,Ohio,Columbus,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-10 15:43:07 UTC,null,39.5746314,-84.2607987,52,52,United States,Ohio,null,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-14 23:45:58 UTC,null,40.0169894,-83.1710761,52,1083,United States,Ohio,Columbus,4G
+Verizon Wireless,blackberry,STV100-2,ANDROID60,en,2017-07-10 16:35:52 UTC,-86,43.0014477,-85.6239236,0,0,United States,Michigan,Grand Rapids,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-22 03:13:04 UTC,null,41.0219291,-81.5940909,0,0,United States,Ohio,Barberton,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-13 16:56:57 UTC,null,42.7425528,-85.6663011,0,0,United States,Michigan,null,4G
+Verizon Wireless,motorola,Nexus 6,ANDROID51,en,2017-06-16 02:06:05 UTC,null,40.67354138,-74.10651206,4880,3577,United States,New Jersey,Bayonne,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-27 18:55:49 UTC,null,41.0672378,-74.4832304,401,0,United States,New Jersey,West Milford,4G
+Verizon Wireless,blackberry,STV100-2,ANDROID60,en,2017-07-07 19:26:31 UTC,null,40.782949,-73.9782677,19336,52809,United States,New York,New York,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-11 19:00:14 UTC,null,40.9135097,-74.2935218,0,0,United States,New Jersey,null,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-16 17:32:09 UTC,null,40.8183246,-73.8905691,12096,42994,United States,New York,New York,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-12 11:00:56 UTC,null,40.6237127,-73.9777573,153718,396011,United States,New York,New York,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-14 13:13:04 UTC,null,34.00639173,-81.77227813,0,0,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-24 00:28:34 UTC,null,33.6075577,-79.0311219,182443,348793,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID60,ko,2017-07-23 18:51:31 UTC,null,35.8638806,-78.7123854,8844,22205,United States,North Carolina,Raleigh,4G
+Verizon Wireless,motorola,XT1565,ANDROID60,en,2017-07-21 01:37:14 UTC,null,35.4064828,-80.2013998,0,0,United States,North Carolina,Albemarle,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-17 19:41:29 UTC,null,34.45314417,-80.09390179,21744,77210,United States,South Carolina,null,UNKNOWN
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-27 17:50:14 UTC,-62,35.063099,-80.8442483,969,939,United States,North Carolina,Charlotte,4G
+Verizon Wireless,LGE,VS880PP,ANDROID51,en,2017-07-22 19:03:03 UTC,null,34.7450665,-77.4858254,0,0,United States,North Carolina,null,4G
+Verizon Wireless,LGE,VS880PP,ANDROID51,en,2017-07-15 22:14:05 UTC,null,34.7654496,-77.4058244,24302,203000,United States,North Carolina,Jacksonville,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-29 15:18:32 UTC,null,30.46651593,-87.24161723,0,0,United States,Florida,null,4G
+Verizon Wireless,samsung,SCH-I605,ANDROID44,en,2017-05-08 12:15:52 UTC,-68,40.74384268,-73.78304368,8025,38521,United States,New York,New York,4G
+Verizon,samsung,SM-S903VL,ANDROID60,en,2017-05-13 16:59:25 UTC,-83,42.67447,-73.6848497,504378,1637754,United States,New York,null,4G
+Verizon Wireless,samsung,SCH-I435,ANDROID44,en,2017-06-28 15:08:05 UTC,null,36.09786516,-79.41373518,862,3877,United States,North Carolina,Burlington,4G
+Verizon,Apple,iPhone 6S,IOS103,en,2017-06-25 01:11:36 UTC,null,38.903666,-77.53144,37838,54865,United States,Virginia,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID44,en,2017-05-11 19:19:46 UTC,-61,40.07690438,-75.04426143,0,0,United States,Pennsylvania,Philadelphia,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-06-23 12:11:14 UTC,-58,41.2251348,-96.119214,88892,134827,United States,Nebraska,Omaha,4G
+Verizon Wireless,samsung,SM-G360V,ANDROID44,en,2017-06-25 15:29:47 UTC,-85,35.1637663,-80.73681467,2135,10222,United States,North Carolina,Charlotte,4G
+Verizon Wireless,samsung,SCH-I435,ANDROID44,en,2017-05-04 21:09:28 UTC,-81,37.91987127,-89.82035009,0,0,United States,Illinois,null,4G
+Verizon Wireless,samsung,SCH-I605,ANDROID44,en,2017-07-06 12:13:56 UTC,-68,40.7726999,-73.77947966,360,424,United States,New York,New York,4G
+Verizon,Apple,"iPhone9,2",IOS103,en,2017-06-12 20:48:29 UTC,null,33.352848,-111.714607,6830,136731,United States,Arizona,Gilbert,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID70,en,2017-07-10 21:00:35 UTC,null,34.0432479,-118.2575303,2336,8007,United States,California,Los Angeles,4G
+Verizon,Apple,iPhone 6S Plus,IOS103,en,2017-06-05 15:51:24 UTC,null,43.092233,-73.772317,1288321,2889672,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID70,en,2017-06-13 12:46:27 UTC,-120,30.400323,-86.6320826,0,0,United States,Florida,null,4G
+Verizon Wireless,samsung,SCH-I435,ANDROID44,en,2017-06-15 01:58:08 UTC,-74,33.92168922,-117.1081228,1707,1806,United States,California,null,4G
+Verizon Wireless,motorola,XT1635-01,ANDROID70,en,2017-06-02 11:21:43 UTC,null,38.26062951,-77.34149793,5248,10865,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-J320V,ANDROID60,en,2017-07-09 16:43:15 UTC,null,47.9200161,-122.1044694,0,0,United States,Washington,null,4G
+Verizon Wireless,samsung,SCH-I435,ANDROID44,en,2017-07-05 20:25:54 UTC,-79,33.90376845,-84.02478986,0,0,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-06-26 11:16:13 UTC,null,29.7007698,-82.3885042,34736,80094,United States,Florida,Gainesville,4G
+Verizon Wireless,samsung,SCH-I605,ANDROID44,en,2017-07-22 23:37:06 UTC,null,30.3948292,-88.8893961,0,0,United States,Mississippi,Biloxi,4G
+Verizon,Apple,"iPhone9,2",IOS103,en,2017-05-14 20:16:21 UTC,null,42.317315,-83.191936,8330580,12703986,United States,Michigan,Dearborn,UNKNOWN
+Verizon Wireless,samsung,SCH-I605,ANDROID44,en,2017-07-19 16:20:37 UTC,null,36.5005194,-79.48201832,12134,16901,United States,North Carolina,null,3G
+Verizon Wireless,samsung,SM-G928V,ANDROID60,en,2017-05-30 22:52:08 UTC,null,42.1657155,-71.0710761,25422,55298,United States,Massachusetts,Canton,4G
+Verizon Wireless,Quanta,QTAQZ3,ANDROID51,en,2017-07-12 18:48:02 UTC,null,42.0890459,-88.0506955,11810,19453,United States,Illinois,Palatine,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-07-23 16:21:13 UTC,null,41.5493115,-87.4636573,1364,1101,United States,Indiana,Highland,4G
+Verizon Wireless,samsung,SM-G730V,ANDROID44,en,2017-05-24 17:40:54 UTC,null,41.99277757,-76.54540966,0,0,United States,Pennsylvania,null,4G
+Verizon Wireless,LGE,VS995,ANDROID70,en,2017-07-23 01:33:50 UTC,-77,43.0334084,-73.7896465,5151,2524,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID70,en,2017-05-28 01:44:42 UTC,null,35.6956196,-120.6979835,946,648,United States,California,null,4G
+Verizon Wireless,Sony,SGP561,ANDROID44,en,2017-07-11 22:37:28 UTC,-74,39.8741597,-84.1360929,19030,19106,United States,Ohio,Huber Heights,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-07-14 17:17:26 UTC,-75,41.7720695,-88.4421094,1221,580,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-07-11 18:18:28 UTC,null,40.6737378,-73.9706831,31191,164550,United States,New York,New York,4G
+Verizon,motorola,XT1096,ANDROID51,en,2017-07-28 11:10:31 UTC,-91,43.2667775,-72.4028011,221788,1171850,United States,New Hampshire,null,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID70,en,2017-05-27 17:47:15 UTC,null,35.7543443,-120.6768538,0,0,United States,California,null,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-07-26 03:33:19 UTC,null,39.0686947,-84.2969046,0,0,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-N915V,ANDROID60,en,2017-05-26 13:00:42 UTC,-76,40.0891625,-75.3853078,3938,5784,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SCH-I435,ANDROID44,en,2017-07-21 15:37:56 UTC,-82,34.33553501,-83.27409322,664173,664144,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-G930U,ANDROID70,en,2017-07-28 17:27:47 UTC,-80,39.0452342,-76.4984571,11474,90319,United States,Maryland,Arnold,4G
+Verizon Wireless,samsung,SM-J727V,ANDROID70,en,2017-07-30 23:26:13 UTC,-53,39.3823968,-119.3015628,0,0,United States,Nevada,null,4G
+Verizon Wireless,samsung,SM-J320V,ANDROID60,en,2017-07-23 15:35:25 UTC,null,34.0114684,-117.9137667,3936,5538,United States,California,null,4G
+Verizon Wireless,LGE,VK815,ANDROID60,en,2017-07-26 06:01:00 UTC,-86,35.2020333,-81.1776781,0,0,United States,North Carolina,null,4G
+Verizon Wireless,KYOCERA,E6810,ANDROID60,en,2017-07-19 22:58:36 UTC,-72,34.773524,-86.8090811,649,681,United States,Alabama,null,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID70,en,2017-07-14 22:39:20 UTC,null,40.4208739,-111.8827558,122642,1098769,United States,Utah,Lehi,4G
+Verizon Wireless,samsung,SM-T377V,ANDROID60,en,2017-05-29 16:55:59 UTC,-70,40.3786948,-74.1557415,0,0,United States,New Jersey,null,4G
+Verizon Wireless,motorola,Moto G (4),ANDROID70,en,2017-05-31 19:42:24 UTC,-74,47.0135658,-122.7285054,0,0,United States,Washington,null,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-26 14:43:35 UTC,null,39.61363365,-77.79680159,50518,134314,United States,Maryland,null,4G
+Verizon Wireless,motorola,XT1565,ANDROID60,en,2017-07-26 19:36:24 UTC,-73,41.56576987,-81.5756392,0,0,United States,Ohio,Cleveland,4G
+Verizon Wireless,KYOCERA,E6810,ANDROID60,en,2017-07-20 19:02:48 UTC,-92,39.7700759,-86.1749729,1104,794,United States,Indiana,null,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-25 14:53:19 UTC,null,37.20007212,-84.15600014,23883,24385,United States,Kentucky,null,4G
+Verizon Wireless,samsung,SM-T377V,ANDROID60,en,2017-07-25 02:42:03 UTC,-78,40.7886839,-73.038706,0,0,United States,New York,Holtsville,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-07-25 09:29:12 UTC,-72,41.2664606,-81.2960969,875,792,United States,Ohio,null,4G
+Verizon Wireless,Google,Pixel,ANDROID71,en,2017-07-26 22:17:51 UTC,null,42.6378282,-71.186521,471451,2475939,United States,Massachusetts,Andover,4G
+Verizon Wireless,Google,Pixel,ANDROID71,en,2017-07-19 22:57:31 UTC,null,38.7909409,-90.23690862,778,0,United States,Missouri,null,4G
+Verizon Wireless,Google,Pixel,ANDROID71,en,2017-05-29 02:55:54 UTC,-72,41.3867716,-73.585206,0,0,United States,New York,null,4G
+Verizon Wireless,Google,Pixel,ANDROID71,en,2017-06-23 14:11:12 UTC,-76,36.5318526,-82.3307764,26333,26551,United States,Tennessee,null,4G
+Verizon Wireless,Google,Pixel,ANDROID71,en,2017-07-27 19:37:32 UTC,-62,30.79002871,-98.23704748,411293,14244641,United States,Texas,null,4G
+Verizon Wireless,Google,Pixel,ANDROID71,en,2017-07-24 20:30:52 UTC,-82,33.4616122,-112.5044135,0,0,United States,Arizona,null,4G
+Verizon Wireless,Google,Pixel,ANDROID71,en,2017-07-19 00:45:01 UTC,null,41.5532,-88.1515595,35064,113636,United States,Illinois,Joliet,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-05-25 21:59:16 UTC,-52,34.65856445,-120.4658992,0,0,United States,California,Lompoc,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-14 18:12:26 UTC,-83,38.2437973,-80.8543459,800,580,United States,West Virginia,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-06-13 19:30:46 UTC,null,42.537345,-78.7306214,780,484,United States,New York,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-11 23:39:15 UTC,null,40.99815589,-76.02866636,0,0,United States,Pennsylvania,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-19 18:36:21 UTC,-65,36.34118277,-119.3486165,68,104,United States,California,Visalia,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-13 18:14:08 UTC,null,42.0427033,-72.1530933,6376,3825,United States,Massachusetts,null,3G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-06-03 04:46:33 UTC,null,28.5681285,-81.3458284,0,0,United States,Florida,Orlando,UNKNOWN
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-31 13:04:33 UTC,-73,33.6811882,-86.6920178,0,0,United States,Alabama,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-29 02:23:13 UTC,null,36.4358357,-78.9238849,685,685,United States,North Carolina,null,3G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-19 20:08:58 UTC,-91,41.6968041,-73.1071719,0,0,United States,Connecticut,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-27 00:14:12 UTC,null,37.90533891,-121.6001167,508,362,United States,California,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-31 16:46:19 UTC,null,33.4577744,-94.0493958,2240,4783,United States,Texas,Texarkana,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-31 11:57:52 UTC,-83,36.01103285,-83.87018897,0,0,United States,Tennessee,Knoxville,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-16 17:38:07 UTC,-79,33.7295004,-116.2847203,720,580,United States,California,Palm Desert,3G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-11 20:06:21 UTC,null,40.884751,-81.4818011,6696,1991,United States,Ohio,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-23 22:27:24 UTC,null,42.5938393,-83.0513764,15076,809367,United States,Michigan,Sterling Heights,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-13 17:54:35 UTC,-65,42.57047744,-88.3720171,872,804,United States,Wisconsin,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-31 21:33:17 UTC,null,35.0185769,-92.4111451,38484,151504,United States,Arkansas,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-16 15:31:24 UTC,-78,39.6816172,-75.7647569,710864,928662,United States,Delaware,Newark,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-27 17:06:27 UTC,-61,34.8410413,-106.6846739,1504,1420,United States,New Mexico,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-16 23:16:35 UTC,-83,35.7576492,-86.9118518,58452,304097,United States,Tennessee,Spring Hill,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-14 14:28:52 UTC,-80,38.9533038,-74.9356165,4192,7783,United States,New Jersey,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-25 16:59:13 UTC,null,38.066187,-88.53278151,4472,7101,United States,Illinois,null,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-19 21:14:13 UTC,-75,40.0478557,-86.1255908,11445,19601,United States,Indiana,Westfield,4G
+Verizon Wireless,motorola,XT1254,ANDROID60,en,2017-07-20 03:52:03 UTC,-68,33.5417654,-117.782597,4400,921,United States,California,Laguna Beach,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-27 06:36:21 UTC,-96,41.8389538,-72.3845023,580,580,United States,Connecticut,null,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-15 20:51:42 UTC,-95,37.9314629,-85.6862397,0,0,United States,Kentucky,null,3G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-24 23:04:09 UTC,-102,47.8607521,-99.2802093,580,580,United States,North Dakota,null,3G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-18 23:14:58 UTC,null,38.8942492,-76.9053546,5382,98621,United States,Maryland,null,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-15 13:21:43 UTC,null,35.6156294,-97.5367841,0,0,United States,Oklahoma,Oklahoma City,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-06-20 12:14:41 UTC,-84,35.774251,-78.6489161,9209,7445,United States,North Carolina,Raleigh,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-06 16:50:53 UTC,-88,40.1984035,-75.0908628,65465,115025,United States,Pennsylvania,null,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-17 23:26:20 UTC,-63,38.1587207,-90.5720362,107854,67922,United States,Missouri,null,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-12 12:05:01 UTC,-79,28.3401865,-81.29858,803924,2437757,United States,Florida,null,4G
+Verizon Wireless,motorola,XT1585,ANDROID70,en,2017-07-31 03:36:43 UTC,-81,39.7847505,-104.7679257,0,0,United States,Colorado,Denver,4G
+Verizon Wireless,LGE,Nexus 5X,ANDROID71,en,2017-07-22 19:56:27 UTC,null,41.69628851,-84.91061808,1009,576,United States,Indiana,null,4G
+Verizon Wireless,LGE,Nexus 5X,ANDROID71,en,2017-07-21 17:47:42 UTC,null,41.75530883,-99.37769616,0,0,United States,Nebraska,null,4G
+Verizon Wireless,LGE,Nexus 5X,ANDROID71,en,2017-07-27 18:54:34 UTC,-78,43.97930119,-88.56854066,0,0,United States,Wisconsin,null,4G
+Verizon Wireless,Huawei,Nexus 6P,ANDROID71,en,2017-07-12 11:39:24 UTC,null,40.43074047,-74.42290067,106353,116958,United States,New Jersey,null,4G
+Verizon Wireless,Huawei,Nexus 6P,ANDROID71,en,2017-07-13 19:18:53 UTC,null,35.64099394,-79.96716757,61326,1102109,United States,North Carolina,null,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-16 16:32:37 UTC,-89,47.2643541,-111.7081827,8459,4300,United States,Montana,null,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-03 17:24:55 UTC,-66,39.1844032,-76.8189359,344856,1327579,United States,Maryland,null,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-16 20:25:50 UTC,null,29.9312856,-95.456977,2357,5553,United States,Texas,null,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-13 01:02:31 UTC,-52,34.031228,-117.6836342,3552,1941,United States,California,Chino,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-09 20:40:42 UTC,null,42.59557175,-71.31839847,246713,463961,United States,Massachusetts,Chelmsford,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-24 13:45:54 UTC,null,48.2774423,-116.5521184,52018,370213,United States,Idaho,null,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-21 23:14:06 UTC,-75,43.024451,-78.1284705,0,0,United States,New York,null,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-22 18:11:48 UTC,-69,35.1085711,-92.4786433,0,72,United States,Arkansas,Conway,4G
+Verizon Wireless,Google,Pixel XL,ANDROID71,en,2017-07-30 08:17:07 UTC,-59,37.7823831,-122.3969276,2726,14411,United States,California,San Francisco,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-06-20 00:50:46 UTC,-67,47.1843895,-122.2980321,0,0,United States,Washington,Puyallup,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-06-21 00:41:52 UTC,null,41.98969296,-97.4435222,3136370,7071308,United States,Nebraska,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-05 11:01:04 UTC,null,39.95422177,-82.91957203,29,29,United States,Ohio,Columbus,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-07-19 23:48:07 UTC,null,32.73470184,-103.1504466,965271,11377555,United States,New Mexico,Hobbs,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-01 21:14:21 UTC,-83,33.97015567,-83.87854674,2223,15844,United States,Georgia,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-06-05 16:56:39 UTC,null,42.91869579,-112.4881001,261957,487305,United States,Idaho,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-06-07 21:54:11 UTC,null,40.68318724,-96.26563507,2296,122952,United States,Nebraska,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-06-30 23:43:34 UTC,null,40.90665128,-111.9027442,0,0,United States,Utah,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-06-20 13:49:49 UTC,null,43.83977085,-76.0185748,82432,93167,United States,New York,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-05 11:55:54 UTC,null,39.95422177,-82.91957203,29,29,United States,Ohio,Columbus,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-25 15:36:57 UTC,null,42.70305674,-73.67312324,0,0,United States,New York,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-24 11:56:04 UTC,-60,32.98354241,-80.11122644,11931,11114,United States,South Carolina,North Charleston,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-07-20 03:31:40 UTC,null,34.00208699,-117.8343275,1695,9595,United States,California,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-27 01:46:36 UTC,null,29.07372463,-81.04931901,0,0,United States,Florida,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-23 19:56:36 UTC,-50,42.70317011,-73.81684374,0,0,United States,New York,null,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-05-21 22:52:27 UTC,null,47.90781515,-97.08042645,17902,502666,United States,North Dakota,Grand Forks,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-07-29 20:35:15 UTC,null,41.97498216,-87.75080807,10486,15631,United States,Illinois,Chicago,4G
+Verizon Wireless,samsung,SCH-I535,ANDROID44,en,2017-07-28 21:02:03 UTC,-57,33.72615211,-84.39193785,86930,144927,United States,Georgia,Atlanta,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-17 18:55:09 UTC,null,30.5199094,-97.567817,1280,1280,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-22 19:28:29 UTC,null,37.9396819,-77.4649984,1051,1251,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-27 23:59:38 UTC,null,39.7651809,-104.9399919,2761,14959,United States,Colorado,Denver,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-18 22:40:07 UTC,null,48.4802088,-122.3299716,1260063,18607820,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-08 15:50:42 UTC,-70,42.3197117,-72.4973735,2804,3211,United States,Massachusetts,Amherst,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-23 19:17:05 UTC,null,38.7310511,-77.265974,0,0,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-06-19 03:54:44 UTC,null,40.1661474,-97.5765054,42174,111278,United States,Nebraska,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-06-23 04:25:32 UTC,-77,44.2242761,-123.2159741,0,0,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-17 15:19:58 UTC,-73,32.91219773,-117.2299104,0,0,United States,California,San Diego,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-27 00:10:40 UTC,null,33.3979437,-117.1713002,3836,3991,United States,California,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-22 15:45:42 UTC,-78,30.274594,-98.8696517,580,580,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-09 00:57:52 UTC,null,38.4006948,-75.6781043,56737,64795,United States,Maryland,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-10 23:29:32 UTC,null,43.6769015,-70.3694057,116,166,United States,Maine,Westbrook,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-12 18:17:44 UTC,null,47.201196,-122.1752866,0,0,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-13 09:47:03 UTC,null,38.7311787,-77.2658047,327353,607736,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-21 21:14:37 UTC,null,35.6692232,-84.7456363,22753,59550,United States,Tennessee,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-27 17:40:40 UTC,-73,44.042054,-123.2087342,0,0,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-12 08:21:19 UTC,-90,41.7168078,-74.3883563,797137,1268593,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-16 03:56:50 UTC,null,40.2018132,-105.0879944,52,468,United States,Colorado,Longmont,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-26 06:37:45 UTC,null,37.9642533,-87.4935378,0,0,United States,Indiana,Evansville,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-30 00:17:08 UTC,-81,44.2238694,-123.2160842,0,0,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-27 17:21:33 UTC,-63,44.0777384,-123.1625171,6250,7513,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-21 15:19:14 UTC,null,38.2591426,-76.4733781,240,0,United States,Maryland,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-19 03:28:49 UTC,-75,47.2014322,-122.1755481,0,0,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-26 00:02:09 UTC,-71,37.9672992,-87.5692075,0,0,United States,Indiana,Evansville,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-23 19:41:11 UTC,null,43.4641033,-88.8444078,0,0,United States,Wisconsin,Beaver Dam,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-25 00:42:21 UTC,null,37.9632077,-87.5673543,0,0,United States,Indiana,Evansville,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-16 15:33:20 UTC,null,45.1254798,-93.2364543,1129,433,United States,Minnesota,Blaine,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-20 19:56:39 UTC,null,47.0523972,-122.7891198,0,0,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-27 20:09:29 UTC,null,44.0465434,-123.2180926,192,353,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-27 17:52:36 UTC,null,44.0479629,-123.14198,5873,6420,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-30 02:39:33 UTC,-73,40.8040719,-111.9188403,1731,5211,United States,Utah,Salt Lake City,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-25 15:33:10 UTC,-74,35.1443588,-106.5930629,0,0,United States,New Mexico,Albuquerque,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-22 13:37:52 UTC,null,41.4412249,-96.4591736,206,0,United States,Nebraska,Fremont,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-13 13:11:52 UTC,null,37.2667182,-77.370712,0,0,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-26 22:10:35 UTC,-77,33.0264515,-96.9811184,0,0,United States,Texas,Lewisville,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-30 18:20:33 UTC,null,32.1883896,-110.7761689,0,0,United States,Arizona,Tucson,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-12 17:02:19 UTC,null,30.4333884,-91.2038053,5609,7435,United States,Louisiana,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-29 17:44:27 UTC,null,37.6661448,-121.8537592,75,60,United States,California,Pleasanton,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-29 01:40:06 UTC,-70,32.5744977,-97.3297471,0,40,United States,Texas,Fort Worth,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-14 20:13:44 UTC,null,43.0058698,-78.8655008,988,796,United States,New York,Tonawanda,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-18 16:41:16 UTC,null,42.0932906,-73.945006,3606,6999,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-18 17:41:45 UTC,-54,44.8634098,-93.3275055,750,750,United States,Minnesota,Edina,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-23 17:55:43 UTC,-78,32.2069647,-110.9346463,1503,9542,United States,Arizona,Tucson,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-25 18:24:31 UTC,null,28.5456117,-81.6138421,1153,596,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-14 17:01:38 UTC,null,45.4266553,-122.6268037,2857,5970,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-08 18:13:19 UTC,null,27.3426825,-82.5445224,630,1265,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-27 17:48:58 UTC,null,45.0972296,-93.2446245,2396,1386,United States,Minnesota,Fridley,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-22 03:38:24 UTC,null,32.6244994,-116.9648258,103,0,United States,California,Chula Vista,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-10 16:13:07 UTC,-69,38.4886025,-121.8041775,2826,4365,United States,California,Dixon,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-29 15:57:41 UTC,-85,44.9302548,-93.2865012,0,0,United States,Minnesota,Minneapolis,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-10 10:21:20 UTC,-78,40.1311939,-93.5418265,19587,39765,United States,Missouri,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-08 13:05:26 UTC,-70,44.3163807,-94.4615812,9318,23913,United States,Minnesota,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-30 22:22:00 UTC,-73,39.4417822,-94.0399193,0,0,United States,Missouri,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-19 19:29:41 UTC,null,46.0637039,-118.3396747,647,663,United States,Washington,Walla Walla,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-27 18:25:52 UTC,null,43.829312,-121.8376002,5328,10620,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-10 03:46:58 UTC,null,40.121617,-93.4816114,315,0,United States,Missouri,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-28 18:25:18 UTC,null,41.440756,-85.2547122,0,0,United States,Indiana,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-15 14:01:31 UTC,null,42.3486092,-88.9861248,0,0,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-27 15:17:23 UTC,null,37.8833872,-122.3129578,5226,13668,United States,California,Albany,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-20 12:53:22 UTC,null,40.7135764,-111.8246991,201,294,United States,Utah,Salt Lake City,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-11 22:31:40 UTC,null,40.4539286,-79.9986889,156,144,United States,Pennsylvania,Pittsburgh,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-11 20:11:16 UTC,null,46.1860318,-123.830692,88360,454512,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-19 21:09:19 UTC,-75,41.8999908,-87.6866186,0,0,United States,Illinois,Chicago,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-27 03:19:12 UTC,null,28.671207,-81.4514808,4810,35428,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-22 23:16:08 UTC,null,28.832957,-81.888063,1145,596,United States,Florida,Leesburg,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-06-22 19:03:24 UTC,-46,34.0495429,-118.255857,922993,16822819,United States,California,Los Angeles,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-15 01:02:42 UTC,-42,33.7900338,-118.0881569,580,580,United States,California,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-28 16:12:54 UTC,null,33.8016575,-118.1263033,0,0,United States,California,Long Beach,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-20 21:11:07 UTC,null,33.7513344,-117.8741934,0,0,United States,California,Santa Ana,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-21 18:15:48 UTC,-102,33.9045027,-117.4690247,0,0,United States,California,Riverside,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-04 22:07:57 UTC,null,40.8216073,-84.0980993,40,83,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-06-25 17:38:53 UTC,-73,41.2842415,-81.4338953,390,187,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-06-16 03:03:35 UTC,null,41.256816,-81.4972702,0,0,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-13 19:34:55 UTC,null,42.5485969,-83.1735569,175,60,United States,Michigan,Troy,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-17 19:18:11 UTC,null,43.5623097,-83.9444577,0,0,United States,Michigan,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-14 10:35:10 UTC,null,41.4148257,-81.7368228,75,0,United States,Ohio,Parma,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-20 19:58:19 UTC,-73,40.8248895,-73.0031191,0,0,United States,New York,Medford,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-05-30 19:16:51 UTC,null,40.6299681,-73.8971722,4567,3108,United States,New York,New York,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-19 17:35:42 UTC,null,40.8856834,-73.1526969,0,0,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-16 20:11:36 UTC,null,34.7102805,-82.249449,934,1198,United States,South Carolina,Simpsonville,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-23 21:31:56 UTC,null,32.9538973,-80.1400344,1617,9478,United States,South Carolina,North Charleston,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-26 11:02:20 UTC,null,35.2077083,-80.9423633,6566,2769,United States,North Carolina,Charlotte,3G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-25 19:02:34 UTC,null,35.2686882,-77.5720557,95,0,United States,North Carolina,Kinston,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-17 16:10:55 UTC,null,36.0352988,-79.9501242,0,0,United States,North Carolina,High Point,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-21 12:24:12 UTC,null,35.0588252,-80.6267607,147,0,United States,North Carolina,Indian Trail,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-29 12:10:25 UTC,null,35.105681,-80.633071,257,170,United States,North Carolina,Indian Trail,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-08 11:53:04 UTC,null,30.4178995,-86.6088179,1255,690,United States,Florida,Fort Walton Beach,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID44,en,2017-05-04 23:31:02 UTC,-75,40.06179702,-74.91670074,11833,333414,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G900V,ANDROID60,en,2017-07-12 18:35:19 UTC,null,38.7929755,-76.9733065,30198,90967,United States,Maryland,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-14 15:06:48 UTC,null,47.5628147,-122.325477,0,0,United States,Washington,Seattle,3G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-14 04:36:39 UTC,null,47.9954594,-122.1948682,647,663,United States,Washington,Everett,3G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-27 23:52:31 UTC,-68,38.0783405,-77.5127476,40,40,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-06-07 14:45:13 UTC,null,32.9685124,-117.0702969,0,0,United States,California,San Diego,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-18 14:16:12 UTC,-77,36.6323949,-87.4498828,154,154,United States,Tennessee,Clarksville,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-05-28 16:52:59 UTC,-85,39.9244136,-86.1796163,0,0,United States,Indiana,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-05-31 17:35:01 UTC,null,42.1511813,-88.0187283,0,0,United States,Illinois,Palatine,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-26 16:31:13 UTC,null,39.7371645,-105.0131566,18434,35822,United States,Colorado,Denver,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-05-05 09:04:28 UTC,-79,41.1090851,-84.3974439,0,0,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID60,en,2017-05-25 17:58:27 UTC,-90,42.4408849,-83.3546487,0,0,United States,Michigan,Livonia,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-26 01:07:33 UTC,-84,39.8671285,-83.004747,110621,247355,United States,Ohio,Columbus,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-28 08:33:41 UTC,null,39.0169915,-96.0144444,0,0,United States,Kansas,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-18 20:47:34 UTC,null,39.6321331,-77.7392603,72,279,United States,Maryland,Hagerstown,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-06-24 01:02:29 UTC,null,40.7661318,-111.8951105,1503,763,United States,Utah,Salt Lake City,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-13 14:55:12 UTC,-81,36.8144904,-76.0671334,1044,580,United States,Virginia,Virginia Beach,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID60,en,2017-07-06 18:46:48 UTC,-120,40.8419424,-73.942951,3399,11426,United States,New York,New York,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-25 04:27:28 UTC,null,40.1063253,-104.9810533,0,0,United States,Colorado,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-30 00:56:13 UTC,-72,38.6238199,-90.1983594,0,0,United States,Missouri,St. Louis,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-10 23:53:00 UTC,-82,48.7907173,-122.7025355,38633,57531,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-05-26 04:21:56 UTC,-75,36.1004276,-95.7518294,0,0,United States,Oklahoma,Broken Arrow,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-21 18:09:04 UTC,-43,34.5530987,-118.6708521,0,0,United States,California,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-29 22:11:08 UTC,-56,35.1134237,-80.8585815,34637,28070,United States,North Carolina,Charlotte,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-05-29 00:39:07 UTC,-70,32.5558878,-93.5983576,0,40,United States,Louisiana,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-13 23:47:52 UTC,-55,45.6199201,-120.7394974,0,0,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID51,en,2017-07-21 19:39:33 UTC,-70,33.6722056,-112.2025219,476292,2799150,United States,Arizona,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-10 14:04:40 UTC,-83,34.8288451,-102.4122794,13682,21390,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-13 12:17:14 UTC,null,47.241042,-122.3733459,56033,240926,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-05-26 06:42:35 UTC,null,47.5853145,-122.1904296,3843,11742,United States,Washington,Bellevue,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-11 20:18:18 UTC,-86,20.8104255,-156.6092298,1958,15010,United States,Hawaii,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID51,en,2017-07-30 22:04:55 UTC,-76,39.4942745,-88.679667,8975,15401,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-G920V,ANDROID70,en,2017-07-27 15:46:16 UTC,-43,36.8427407,-76.0658407,8836,9962,United States,Virginia,Virginia Beach,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-23 16:23:50 UTC,-61,46.8459221,-96.7352624,140,140,United States,Minnesota,Moorhead,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-07 20:25:17 UTC,null,38.8985248,-77.0151961,0,0,United States,District of Columbia,District of Columbia,UNKNOWN
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-22 15:10:36 UTC,null,42.1332727,-87.758122,13613,95617,United States,Illinois,null,3G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-13 11:32:03 UTC,null,46.8512091,-96.8000928,6011,27571,United States,North Dakota,Fargo,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-15 04:22:03 UTC,-58,45.4613265,-98.5081979,39214,25891,United States,South Dakota,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-18 02:54:53 UTC,-68,39.4647857,-121.5336206,959,1190,United States,California,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-21 14:39:00 UTC,-65,42.3683658,-71.0105891,870,870,United States,Massachusetts,Boston,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-23 21:29:22 UTC,-81,33.7429025,-78.9042469,3071,8701,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,zh,2017-07-21 20:51:13 UTC,null,42.3190587,-83.5937616,2197,0,United States,Michigan,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-06-08 14:19:44 UTC,-83,39.7714412,-105.0328314,11832,17162,United States,Colorado,Denver,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-28 16:30:53 UTC,-83,45.4848781,-108.9709386,545,582,United States,Montana,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-21 22:26:55 UTC,-89,33.9667729,-84.4106925,8360,10480,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-05-17 05:11:22 UTC,-60,40.544732,-74.588616,17369,26394,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-19 23:34:12 UTC,-84,39.7179643,-75.3390084,4273,5559,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-11 03:35:07 UTC,-65,40.7450802,-73.9787788,243283,1006041,United States,New York,New York,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-31 04:12:37 UTC,-82,38.7245208,-76.0690277,11769,21117,United States,Maryland,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-12 22:31:15 UTC,-74,30.4181882,-90.1698369,566535,5917761,United States,Louisiana,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-06-19 20:17:33 UTC,null,36.2078029,-96.0032549,53247,64569,United States,Oklahoma,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-28 15:27:09 UTC,-77,35.954388,-86.5009901,0,0,United States,Tennessee,Smyrna,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-17 18:35:01 UTC,null,32.4409526,-99.7476183,16547,21002,United States,Texas,Abilene,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-27 15:06:45 UTC,-83,42.2662584,-85.2389082,83,0,United States,Michigan,Battle Creek,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-14 12:23:22 UTC,-90,39.8400965,-75.0917525,200,914,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-30 02:45:37 UTC,null,39.0566902,-94.4968778,3972,22354,United States,Missouri,Kansas City,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-16 18:49:06 UTC,null,35.5409628,-82.9422572,54534,59140,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-18 18:25:51 UTC,-58,30.2186232,-97.8468248,6919,11509,United States,Texas,Austin,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-14 18:34:44 UTC,null,33.6841075,-84.408003,18344,33034,United States,Georgia,Atlanta,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-05-28 02:18:51 UTC,-58,33.8315589,-118.3106435,0,0,United States,California,Torrance,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-21 19:08:25 UTC,-85,31.9377007,-95.2434442,0,0,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-31 18:43:55 UTC,null,39.0415805,-94.593148,269397,8352999,United States,Missouri,Kansas City,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-22 17:00:48 UTC,-69,37.1176581,-77.5288004,0,0,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-30 23:32:11 UTC,-80,40.2871708,-74.1731213,786,580,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-23 12:50:08 UTC,-85,45.3967999,-122.6309179,1120,580,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-26 23:45:03 UTC,-82,35.8202839,-87.4326798,4479,2450,United States,Tennessee,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-21 14:21:38 UTC,null,43.0444609,-71.0131893,3444,0,United States,New Hampshire,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID60,en,2017-07-23 19:40:18 UTC,null,43.8365034,-93.28867543,3576,2295,United States,Minnesota,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-06-14 05:53:18 UTC,null,34.3380455,-117.4791269,11591,4659,United States,California,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-16 23:04:35 UTC,null,45.0233678,-92.9814128,18005,92313,United States,Minnesota,Oakdale,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-20 11:06:13 UTC,-79,33.9754617,-78.3947098,0,0,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-31 10:19:33 UTC,-67,35.0833303,-80.7309696,0,0,United States,North Carolina,Matthews,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-10 02:12:52 UTC,null,38.8848604,-77.3623899,9424,21570,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-18 23:29:08 UTC,-70,34.40658,-118.5734149,0,0,United States,California,Santa Clarita,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-16 23:50:38 UTC,-75,32.4495296,-86.4405935,924,964,United States,Alabama,Prattville,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-05-29 18:16:25 UTC,null,36.744571,-76.2481775,28880,202154,United States,Virginia,Chesapeake,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-23 19:26:16 UTC,null,40.827347,-73.3322094,3041,22747,United States,New York,Dix Hills,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-10 04:36:18 UTC,-80,28.3386497,-81.4850501,191843,529734,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-30 23:46:09 UTC,-79,40.8885719,-84.5771116,0,0,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-13 00:55:30 UTC,null,42.3895456,-83.0685196,0,0,United States,Michigan,Detroit,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-27 13:16:58 UTC,-63,28.3615471,-81.5726496,0,0,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-09 12:02:06 UTC,null,33.8823152,-117.645994,382,0,United States,California,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-28 17:40:35 UTC,-73,25.9534661,-80.2054638,3621,4657,United States,Florida,Miami Gardens,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-15 00:04:34 UTC,null,40.8821401,-96.7287234,186328,401661,United States,Nebraska,Lincoln,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID60,en,2017-05-30 01:48:24 UTC,null,37.2964969,-79.310501,533,249,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-25 15:29:02 UTC,-79,31.9520709,-95.2624038,46358,149988,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-05-25 08:46:28 UTC,-88,33.7181527,-118.0690841,25092,60573,United States,California,Huntington Beach,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-05-28 12:44:03 UTC,null,30.2814293,-81.7386609,175,668,United States,Florida,Jacksonville,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID60,en,2017-07-21 15:55:47 UTC,null,32.840313,-83.6325048,0,0,United States,Georgia,Macon,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-28 00:55:27 UTC,-84,40.6346763,-80.079532,0,0,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-19 16:52:33 UTC,null,35.4593047,-97.590866,107460,583739,United States,Oklahoma,Oklahoma City,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-29 05:47:20 UTC,null,25.8805414,-80.2089502,20418,36574,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-28 14:51:59 UTC,-82,40.8615514,-84.5764548,127544,68933,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-20 15:44:30 UTC,null,35.81795,-83.9798038,2462,1517,United States,Tennessee,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-25 20:10:43 UTC,null,39.0460767,-95.6531895,8078,15236,United States,Kansas,Topeka,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-28 14:39:43 UTC,null,37.4393785,-122.1604813,6539,4404,United States,California,Palo Alto,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-23 03:28:39 UTC,-83,42.623774,-83.7698715,0,0,United States,Michigan,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-22 17:01:16 UTC,-83,40.3906325,-78.71662,40,80,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-16 01:24:01 UTC,null,38.6382946,-121.3264352,300,342,United States,California,null,4G
+Verizon Wireless,samsung,SM-G930V,ANDROID70,en,2017-07-24 23:01:25 UTC,-58,41.7709626,-88.0447141,580,580,United States,Illinois,Woodridge,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-26 22:41:10 UTC,null,26.6830361,-80.1599046,26607,99540,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-24 18:45:01 UTC,-65,41.2072241,-96.1689495,580,580,United States,Nebraska,Omaha,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-14 16:55:51 UTC,null,41.5577244,-90.5804746,1820,0,United States,Iowa,Davenport,3G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-30 20:28:38 UTC,null,42.2970681,-73.6670567,0,0,United States,New York,null,3G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-21 02:47:26 UTC,null,48.4194512,-111.8919451,0,0,United States,Montana,null,UNKNOWN
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-19 22:20:16 UTC,null,35.4570756,-79.4005603,9329,6042,United States,North Carolina,null,3G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-30 10:37:02 UTC,null,34.287032,-77.8021369,1282,376,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-16 00:44:01 UTC,null,35.1784975,-119.160404,614,947,United States,California,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-20 19:37:37 UTC,-81,41.5530932,-70.6036126,103,0,United States,Massachusetts,Falmouth,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-18 14:35:35 UTC,null,34.0888662,-118.3134095,0,0,United States,California,Los Angeles,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-23 13:37:55 UTC,null,35.8870795,-84.2184931,1443,0,United States,Tennessee,Farragut,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-06-23 01:23:45 UTC,null,34.1082245,-117.2261375,29443,36375,United States,California,San Bernardino,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-20 20:57:05 UTC,-53,38.9312906,-84.6309102,0,0,United States,Kentucky,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-27 08:56:02 UTC,-73,40.8507769,-76.8178544,136889,177759,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-10 14:52:23 UTC,-74,41.1475868,-80.675429,580,348,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-03 23:33:42 UTC,null,37.177118,-93.192785,6062,16277,United States,Missouri,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-03 21:55:20 UTC,null,30.2688529,-81.5088184,21151,48269,United States,Florida,Jacksonville,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-06-04 16:00:08 UTC,-46,27.9439684,-82.5416593,1638251,3072310,United States,Florida,Tampa,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-13 15:23:36 UTC,null,47.6766385,-117.0689752,26222,15621,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-08 13:10:14 UTC,null,42.5257324,-71.0783793,291831,1938485,United States,Massachusetts,Wakefield,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-21 16:27:58 UTC,null,34.1999021,-81.1573497,1795,605,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-30 18:10:38 UTC,-56,39.1761229,-77.1896731,66049,104148,United States,Maryland,Montgomery Village,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-28 01:58:04 UTC,-69,45.4768054,-122.6418582,4166,19470,United States,Oregon,Portland,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-31 13:15:19 UTC,-72,40.4196282,-80.0515713,3381,9764,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID60,en,2017-07-28 22:25:44 UTC,-74,29.6606488,-95.0163923,7412,22394,United States,Texas,La Porte,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-09 20:54:46 UTC,null,37.1395629,-76.513675,4524,9787,United States,Virginia,Newport News,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-14 13:44:08 UTC,null,33.6876218,-84.3058675,7677,8860,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-12 04:49:47 UTC,null,45.5998716,-122.6748689,90635,3416953,United States,Oregon,Portland,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-26 11:47:22 UTC,-85,34.1293409,-117.9723554,0,0,United States,California,Duarte,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-31 22:12:54 UTC,-77,47.5645269,-122.6358967,1025640,29887068,United States,Washington,Bremerton,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID60,en,2017-07-14 16:16:08 UTC,null,34.0519112,-118.4475016,75962,76718,United States,California,Los Angeles,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-20 14:44:35 UTC,null,40.4791528,-74.4083295,6616,27237,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-17 19:04:29 UTC,-53,27.0739007,-82.4254587,77256,3995327,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-27 09:07:28 UTC,null,33.8332912,-117.834595,52,323,United States,California,Orange,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-20 14:18:07 UTC,-80,40.8382213,-82.2741149,1804,393,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-26 12:39:38 UTC,null,33.6403525,-84.4525449,120266,143163,United States,Georgia,College Park,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-21 19:30:08 UTC,-69,33.6460668,-84.4400768,4488,36760,United States,Georgia,College Park,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-13 18:33:07 UTC,-76,33.7423139,-116.3207003,2547,8226,United States,California,Palm Desert,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-12 03:07:31 UTC,null,33.2069553,-111.6785712,5972,2946,United States,Arizona,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-24 22:59:05 UTC,-83,40.7014006,-74.1861975,0,0,United States,New Jersey,Newark,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-22 03:09:33 UTC,-70,30.2067984,-93.4563033,0,0,United States,Louisiana,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-14 09:35:49 UTC,null,27.9819852,-82.7283393,853701,2214854,United States,Florida,Clearwater,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-12 23:59:38 UTC,null,33.0043439,-96.8829267,38612,70794,United States,Texas,Carrollton,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-17 16:25:17 UTC,-71,40.0806147,-75.0306306,403770,554451,United States,Pennsylvania,Philadelphia,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-27 21:57:14 UTC,-60,43.0174674,-78.2453006,48125438,48135282,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-26 03:04:03 UTC,null,29.5773663,-95.176283,17716,24297,United States,Texas,Houston,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-24 00:44:28 UTC,-46,41.1898513,-73.6865467,580,580,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-30 16:07:27 UTC,-75,33.6713021,-112.2305661,43044,88837,United States,Arizona,Peoria,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-20 22:39:22 UTC,-76,32.6528274,-97.0859517,4333,67100,United States,Texas,Arlington,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-18 16:22:20 UTC,-83,40.2543714,-74.2926852,264,264,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-29 00:04:20 UTC,null,32.9148539,-80.0309616,357836,8254902,United States,South Carolina,North Charleston,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-05-26 11:29:23 UTC,null,34.1293409,-117.9723554,140,140,United States,California,Duarte,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-20 03:52:51 UTC,-79,41.1820996,-83.6689242,33636,399333,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-23 14:21:12 UTC,-87,36.3318115,-84.2313373,332,213,United States,Tennessee,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-29 15:30:25 UTC,null,35.5763238,-77.3835815,174495,151731,United States,North Carolina,Greenville,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-19 12:24:53 UTC,-76,38.6128321,-77.2546223,1135,2708,United States,Virginia,Woodbridge,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-17 06:55:46 UTC,-76,31.0584128,-97.6573541,39581,108268,United States,Texas,Harker Heights,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-28 16:58:09 UTC,null,35.2626196,-82.5089432,14771,23449,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-18 08:22:25 UTC,-79,33.7967769,-117.8972541,0,0,United States,California,Anaheim,4G
+Verizon Wireless,samsung,SM-G935V,ANDROID70,en,2017-07-18 14:20:32 UTC,-81,28.5870974,-81.5290404,0,0,United States,Florida,Ocoee,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-12 18:09:40 UTC,null,46.2493794,-118.8343456,2125,1662,United States,Washington,null,UNKNOWN
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-20 18:53:19 UTC,-79,38.8155133,-77.0645412,2529,1084,United States,Virginia,Alexandria,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-17 22:34:20 UTC,null,43.5134918,-87.8253471,9231,8972,United States,Wisconsin,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-18 18:39:33 UTC,-82,41.0825378,-85.5899892,652,724,United States,Indiana,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-17 05:17:08 UTC,null,45.595136,-94.1713062,580,580,United States,Minnesota,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-18 21:17:48 UTC,null,41.0102084,-74.1757397,305397,3989877,United States,New Jersey,Wyckoff,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-30 08:39:49 UTC,-79,33.0255649,-80.0381341,0,0,United States,South Carolina,Goose Creek,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-15 07:09:23 UTC,-65,42.7426933,-84.6598638,580,580,United States,Michigan,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-23 23:04:50 UTC,-50,42.3532088,-71.0497231,0,0,United States,Massachusetts,Boston,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-14 20:29:20 UTC,null,44.0870585,-92.5026502,30992,116341,United States,Minnesota,Rochester,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-12 00:00:24 UTC,-60,44.2700074,-123.160906,118945,2066758,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-18 15:42:03 UTC,-36,33.2901332,-111.7040898,80899,116401,United States,Arizona,Gilbert,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-16 10:45:31 UTC,-71,30.8230072,-88.0958337,580,580,United States,Alabama,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-31 18:18:46 UTC,-64,37.6396224,-122.0969585,0,0,United States,California,Hayward,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-28 15:46:26 UTC,-70,37.7641862,-122.4717679,6043,23831,United States,California,San Francisco,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-30 00:17:13 UTC,null,35.1827865,-106.5777086,26062,70049,United States,New Mexico,Albuquerque,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-05-27 00:08:36 UTC,-54,33.8088468,-84.3946526,104,335,United States,Georgia,Atlanta,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-20 12:32:40 UTC,null,41.4038579,-95.8995389,52,0,United States,Iowa,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-05-25 19:37:57 UTC,-78,40.3360486,-74.5422646,0,0,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-25 20:52:31 UTC,null,39.9001134,-104.7679552,282,353,United States,Colorado,Commerce City,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-16 18:08:39 UTC,-74,43.0595949,-78.9901518,144,918,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-13 20:21:39 UTC,-83,34.986939,-110.0392667,1015,1147,United States,Arizona,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-24 15:14:46 UTC,null,43.0272991,-86.1735082,66157,142270,United States,Michigan,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-31 15:15:32 UTC,-81,43.0930093,-75.9660996,1605,2251,United States,New York,null,4G
+Verizon Wireless,samsung,SM-G950U,ANDROID70,en,2017-07-26 04:03:47 UTC,null,39.1736486,-74.6777458,1173647,3647298,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-30 17:15:04 UTC,null,28.2987995,-81.3690175,0,0,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-31 18:09:10 UTC,null,32.0671799,-82.8971347,55207,67125,United States,Georgia,null,3G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-28 16:13:19 UTC,-49,33.4340674,-111.9994195,580,580,United States,Arizona,Phoenix,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-17 19:26:37 UTC,null,37.4899374,-77.5510313,8445,4552,United States,Virginia,null,3G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-30 16:14:50 UTC,null,34.3061195,-84.4665582,7767,7115,United States,Georgia,Canton,3G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-05-27 03:43:16 UTC,-75,34.047947,-118.3239581,12594,24689,United States,California,Los Angeles,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-06-27 08:21:22 UTC,-70,33.8180338,-118.3107494,0,0,United States,California,Torrance,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-15 22:15:31 UTC,-64,40.2412799,-77.0489131,0,0,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-22 23:12:49 UTC,-42,41.9253274,-87.6547422,2901,33013,United States,Illinois,Chicago,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-10 19:58:50 UTC,-69,40.8176334,-111.9233801,580,580,United States,Utah,Salt Lake City,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-06-11 06:59:24 UTC,null,38.8797188,-77.1282063,139257,4115055,United States,Virginia,Arlington,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-13 06:41:29 UTC,null,33.7051673,-87.1628557,0,0,United States,Alabama,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-18 12:28:12 UTC,-59,40.7162817,-73.5805306,0,0,United States,New York,Uniondale,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-30 22:36:55 UTC,-58,38.8035857,-112.0653068,0,0,United States,Utah,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-18 17:19:30 UTC,null,29.4872466,-98.2225101,0,0,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-15 23:33:27 UTC,null,35.1912376,-114.019134,6918,20931,United States,Arizona,Kingman,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-10 18:01:14 UTC,null,36.6988986,-87.4547223,0,0,United States,Kentucky,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-21 03:25:57 UTC,-86,33.2291961,-117.3381313,1157141,2241626,United States,California,Oceanside,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-13 13:46:36 UTC,null,39.0458016,-77.1028611,58121,1574742,United States,Maryland,North Bethesda,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-27 21:36:36 UTC,-71,45.2186208,-93.590324,0,0,United States,Minnesota,Saint Michael,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-20 09:44:33 UTC,-74,36.3559059,-105.6004658,5024,17033,United States,New Mexico,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-05-31 18:56:16 UTC,null,29.7891866,-95.2532548,1744547,10825465,United States,Texas,Houston,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-23 06:24:00 UTC,null,41.1348815,-104.655483,15984,30061,United States,Wyoming,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-26 14:39:26 UTC,-70,40.5146792,-74.4034738,0,0,United States,New Jersey,Edison,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-21 15:26:37 UTC,-82,39.9048348,-89.8096677,80071,80180,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-05-29 03:07:48 UTC,null,42.3499835,-71.0655738,132795,261422,United States,Massachusetts,Boston,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-16 19:17:16 UTC,-79,40.1488098,-83.0240126,0,0,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-28 06:08:28 UTC,null,47.029753,-122.9392411,14797,67547,United States,Washington,Olympia,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-18 18:00:16 UTC,-76,40.143851,-82.9709675,0,0,United States,Ohio,Columbus,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-26 17:07:22 UTC,-71,35.9920475,-86.4446981,0,0,United States,Tennessee,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-30 20:35:58 UTC,-45,33.6868621,-117.8663116,0,0,United States,California,Costa Mesa,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-11 17:00:01 UTC,null,33.5309937,-84.6062084,0,0,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-24 05:02:29 UTC,null,34.2964409,-118.8518682,168,270,United States,California,Moorpark,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-23 16:24:12 UTC,null,41.4708018,-90.4660127,563,0,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-22 22:40:44 UTC,null,43.3329886,-71.6057354,118581,174646,United States,New Hampshire,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-29 18:40:50 UTC,null,41.4639714,-72.8175171,35661,1066221,United States,Connecticut,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-25 07:13:00 UTC,-72,32.2312664,-101.4933751,14486,36193,United States,Texas,Big Spring,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-25 21:33:37 UTC,-94,34.2402314,-77.8630664,0,0,United States,North Carolina,Wilmington,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-30 16:13:36 UTC,null,29.5711527,-95.5284298,72,291,United States,Texas,Missouri City,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-18 02:37:42 UTC,-71,42.2516491,-84.384841,7410,6755,United States,Michigan,Jackson,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-15 18:18:59 UTC,-46,32.2845498,-90.0120861,802689,3991288,United States,Mississippi,Brandon,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-24 18:06:40 UTC,null,37.7406379,-121.5031954,3190,3543,United States,California,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-05-24 05:06:36 UTC,-59,34.1318094,-117.2372976,0,0,United States,California,San Bernardino,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-26 21:27:33 UTC,null,33.4576823,-94.0828022,21878,39363,United States,Texas,Texarkana,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-31 10:29:18 UTC,-69,40.8487106,-73.9244088,144,338,United States,New York,New York,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-20 22:39:41 UTC,null,39.8845641,-83.4366846,2863,3795,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-22 18:55:41 UTC,null,36.1887343,-115.3391432,12010,41724,United States,Nevada,Las Vegas,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-20 15:37:12 UTC,null,47.6323234,-122.3435509,2412,1336,United States,Washington,Seattle,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-11 14:23:21 UTC,null,35.0453682,-89.9836812,993,1256,United States,Tennessee,Memphis,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-14 14:50:01 UTC,-72,35.9931449,-83.9613617,0,0,United States,Tennessee,Knoxville,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-29 22:59:42 UTC,null,41.4545583,-106.805117,14823,39602,United States,Wyoming,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-23 10:24:52 UTC,-82,39.1853807,-76.8917325,580,580,United States,Maryland,null,4G
+Verizon Wireless,samsung,SM-G955U,ANDROID70,en,2017-07-24 08:57:24 UTC,-77,34.5836572,-113.1615,0,0,United States,Arizona,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID50,en,2017-06-14 19:18:05 UTC,null,46.2081625,-119.2349934,123187,1241642,United States,Washington,Kennewick,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID50,en,2017-07-26 10:49:42 UTC,-85,28.3380666,-81.5925106,3643,2462,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID50,en,2017-07-25 03:05:09 UTC,null,45.4219811,-122.8863121,92416,37741,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID50,en,2017-07-17 17:45:06 UTC,-77,29.8243508,-98.7566842,736,1560,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID50,en,2017-07-27 00:46:13 UTC,-75,38.940366,-92.7752124,69368,176276,United States,Missouri,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID50,en,2017-07-21 19:34:45 UTC,-47,32.7895969,-80.0297414,11081,2617,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID44,en,2017-06-28 18:20:47 UTC,-77,32.4115888,-82.2209426,580,580,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID44,en,2017-05-07 19:21:09 UTC,null,38.9444813,-77.1012646,72,72,United States,District of Columbia,District of Columbia,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID44,en,2017-05-17 00:03:31 UTC,null,42.88036329,-76.96366286,4127,6385,United States,New York,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID44,es,2017-07-10 04:10:17 UTC,-77,38.34288025,-98.20574569,60,0,United States,Kansas,null,4G
+Verizon Wireless,samsung,SM-N900V,ANDROID44,es,2017-07-17 14:52:00 UTC,-79,35.70354771,-82.03751537,49129,65199,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-23 17:30:24 UTC,null,33.8351807,-84.0572023,132,0,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-19 18:36:19 UTC,null,43.1545066,-77.6195685,17961,31863,United States,New York,Rochester,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-26 19:32:57 UTC,null,43.0654155,-77.6460171,208,0,United States,New York,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-31 23:14:46 UTC,-83,32.3138339,-95.0934844,9106,2793,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-03 20:51:29 UTC,null,43.6069429,-123.2229506,135,0,United States,Oregon,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-07 21:53:41 UTC,null,39.6849634,-85.9762686,475,0,United States,Indiana,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-10 13:28:30 UTC,null,27.1554585,-80.2205961,830,846,United States,Florida,Stuart,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-18 05:58:42 UTC,null,33.4578177,-112.3657086,409,134,United States,Arizona,Goodyear,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-18 20:39:42 UTC,null,26.4024796,-81.8052797,6533,24689,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-29 23:52:59 UTC,-76,43.1898391,-77.590485,988,1031,United States,New York,Rochester,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-07 20:17:05 UTC,-79,27.4904141,-82.6366655,580,580,United States,Florida,Bradenton,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,ko,2017-06-24 22:45:27 UTC,null,33.9671611,-84.1435033,23122,33585,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-04 21:06:21 UTC,null,26.4576409,-81.8252114,1076,290,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-09 21:28:33 UTC,null,32.7954327,-96.7892121,3752,1019,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-10 23:30:50 UTC,null,32.8140184,-96.7777688,66658,761559,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-26 16:02:21 UTC,null,39.2706303,-80.3619174,19259,22936,United States,West Virginia,Clarksburg,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-26 14:25:00 UTC,-71,29.7153563,-95.3969308,5069,6591,United States,Texas,Houston,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-26 02:17:02 UTC,-77,30.4559708,-97.5619513,25707,53631,United States,Texas,Pflugerville,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-26 10:42:58 UTC,null,28.3047781,-81.4341219,1483,1136,United States,Florida,Kissimmee,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-10 04:41:59 UTC,null,29.9706338,-95.3416712,1835,5695,United States,Texas,Houston,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-22 00:17:01 UTC,-81,33.7655921,-84.1649047,986,819,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-29 17:38:36 UTC,-49,37.0016099,-81.0913991,624,19434,United States,Virginia,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-24 13:19:13 UTC,null,32.3645819,-95.4302477,1728,5620,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-29 19:08:46 UTC,-78,43.0996715,-87.9031784,5669,7051,United States,Wisconsin,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-19 18:29:15 UTC,null,40.1407882,-89.4173417,15020,14862,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-15 15:12:06 UTC,null,38.9078849,-77.0199113,38392,80136,United States,District of Columbia,District of Columbia,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-29 14:26:40 UTC,null,38.0997378,-122.2289825,27279,16765,United States,California,Vallejo,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-09 09:31:07 UTC,null,38.6876956,-121.3110232,308,436,United States,California,Citrus Heights,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-28 18:14:16 UTC,null,43.3169521,-71.0425222,95,0,United States,New Hampshire,Rochester,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-25 13:05:28 UTC,null,33.9185684,-84.2987501,244,140,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-14 16:25:24 UTC,null,33.7974242,-84.2223302,228233,1106060,United States,Georgia,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-12 12:19:17 UTC,null,38.0882797,-87.5564249,6108,9493,United States,Indiana,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-21 02:58:23 UTC,null,26.1662378,-80.1172864,682,353,United States,Florida,Fort Lauderdale,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-26 12:13:02 UTC,null,43.2373524,-88.1436305,0,0,United States,Wisconsin,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-23 18:46:40 UTC,null,38.5402954,-121.4739285,2910,11856,United States,California,Sacramento,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-25 20:22:21 UTC,null,31.1353796,-97.3547813,5301,31592,United States,Texas,Temple,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-30 22:58:48 UTC,null,37.654523,-122.0901467,531,487,United States,California,Hayward,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-23 02:48:50 UTC,-71,38.5340533,-107.9866219,0,0,United States,Colorado,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-28 16:39:29 UTC,null,39.7536473,-104.9490321,511,779,United States,Colorado,Denver,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-16 01:16:15 UTC,null,30.650018,-97.8383039,44050,1166866,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID51,en,2017-07-15 21:31:33 UTC,-65,43.5438118,-96.7532042,836,892,United States,South Dakota,Sioux Falls,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-27 03:26:41 UTC,null,42.960671,-78.5915004,11228,242,United States,New York,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-21 23:00:50 UTC,null,46.8662685,-122.2655928,11993,34202,United States,Washington,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-16 17:53:58 UTC,-70,39.536106,-119.7382153,352,352,United States,Nevada,Sparks,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-18 03:52:50 UTC,null,38.2804839,-85.7416773,0,0,United States,Indiana,Jeffersonville,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-15 19:26:47 UTC,-65,30.3521332,-94.1450288,328,0,United States,Texas,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-14 01:18:54 UTC,null,33.7128612,-117.7400883,4828,1800,United States,California,Irvine,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-13 00:33:24 UTC,null,33.8517275,-117.8448798,1220,1588,United States,California,Anaheim,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-05-12 14:27:58 UTC,null,33.8519621,-117.8447425,0,0,United States,California,Anaheim,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-17 18:13:38 UTC,null,34.0525557,-118.2925044,4669,16669,United States,California,Los Angeles,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-21 19:23:51 UTC,null,33.9360542,-117.4034534,0,0,United States,California,Riverside,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,ko,2017-06-08 22:59:56 UTC,null,34.0487922,-118.2850597,567,663,United States,California,Los Angeles,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-20 18:27:09 UTC,-61,34.0569368,-118.2081657,28852,552636,United States,California,Los Angeles,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-19 15:04:06 UTC,-82,39.1501236,-84.564273,53,0,United States,Ohio,Cincinnati,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-24 15:02:16 UTC,null,42.9125629,-83.6295326,178,0,United States,Michigan,Flint,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-25 04:29:06 UTC,-81,39.1501342,-84.5642698,0,0,United States,Ohio,Cincinnati,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-21 20:54:15 UTC,null,41.5529573,-83.7860904,1382,6861,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-14 01:42:29 UTC,null,41.5050406,-81.3229627,1377,639,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-28 15:21:48 UTC,null,39.2169336,-84.5195871,4430,13978,United States,Ohio,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-22 23:18:39 UTC,-78,40.1873041,-74.2214175,280,280,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-08 23:38:19 UTC,null,40.8551858,-73.9703649,0,0,United States,New Jersey,Fort Lee,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-17 12:07:58 UTC,null,40.7464843,-73.9857462,3249,7233,United States,New York,New York,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-31 03:48:01 UTC,null,40.5722761,-74.3271762,210,0,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-29 15:12:21 UTC,-85,40.7878126,-74.0576776,123,167,United States,New Jersey,Secaucus,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-13 11:32:51 UTC,null,40.8891786,-73.9976372,436,602,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-06-14 18:34:02 UTC,null,36.1826569,-77.6729285,0,0,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-27 13:59:13 UTC,null,34.9091541,-82.1152201,4891,5155,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-09 03:36:27 UTC,null,36.1826592,-77.6729508,75,0,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-16 18:00:55 UTC,null,34.8249397,-82.556803,4398,14223,United States,South Carolina,Easley,4G
+Verizon Wireless,samsung,SM-N910V,ANDROID60,en,2017-07-27 11:17:27 UTC,-86,35.4050977,-80.777781,1041,810,United States,North Carolina,Huntersville,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-06-08 22:01:41 UTC,null,33.7177896,-102.2087486,53204,59203,United States,Texas,null,3G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-19 21:00:21 UTC,-57,34.8644061,-111.7935005,103,0,United States,Arizona,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-24 20:21:06 UTC,null,30.1982736,-82.6363584,0,0,United States,Florida,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-11 11:25:45 UTC,null,40.9437278,-73.7320869,0,0,United States,New York,Mamaroneck,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-29 14:25:10 UTC,-56,40.8562413,-73.9828883,2146,13278,United States,New Jersey,Fort Lee,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-27 17:24:45 UTC,-56,40.9496946,-73.7304894,102485,168301,United States,New York,Mamaroneck,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-07 14:15:01 UTC,null,36.0357934,-80.8237649,13876,123316,United States,North Carolina,null,4G
+Verizon,samsung,SM-N920V,ANDROID70,ko,2017-05-13 17:04:02 UTC,-83,33.8973158,-117.9265478,13147,26150,United States,California,Fullerton,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-06-09 14:25:17 UTC,-62,40.0786605,-75.1744997,52,83,United States,Pennsylvania,Philadelphia,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-06-09 20:11:36 UTC,null,40.2047146,-85.6906674,58076,93749,United States,Indiana,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-16 22:59:55 UTC,null,39.4900612,-106.0467403,0,114,United States,Colorado,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-31 20:47:34 UTC,-81,41.0109039,-76.0332071,0,0,United States,Pennsylvania,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-16 02:39:19 UTC,-95,38.6179002,-121.5179088,3452,1077,United States,California,Sacramento,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-23 07:53:08 UTC,null,44.9754933,-93.1069726,30453,97560,United States,Minnesota,Saint Paul,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-19 20:40:59 UTC,null,39.5478414,-86.0371848,696,819,United States,Indiana,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-31 18:09:44 UTC,-64,38.5154655,-89.6639612,2518,1503,United States,Illinois,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-30 08:15:14 UTC,-72,41.6564588,-83.4770627,0,0,United States,Ohio,Oregon,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-28 12:18:44 UTC,null,37.0231479,-84.6209309,31469,147955,United States,Kentucky,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-19 14:24:04 UTC,-75,40.6677105,-111.8993258,415,630,United States,Utah,Murray,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-19 16:46:15 UTC,null,38.4126198,-82.4331572,88,0,United States,West Virginia,Huntington,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-14 00:14:48 UTC,-66,32.7446293,-116.9848912,2133,1726,United States,California,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-14 23:47:01 UTC,-80,39.5002598,-84.3727691,0,0,United States,Ohio,Middletown,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-05-31 18:14:30 UTC,-81,36.0798093,-80.0939031,1348,19174,United States,North Carolina,Kernersville,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-05-29 03:36:24 UTC,null,38.9115556,-77.0102049,18092,30646,United States,District of Columbia,District of Columbia,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-31 20:25:46 UTC,null,42.3947715,-82.918819,13293,49994,United States,Michigan,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-18 03:57:33 UTC,null,34.5706752,-80.3702147,2251,2463,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-29 17:12:00 UTC,null,44.6899433,-84.6972191,72,534,United States,Michigan,null,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-15 18:31:23 UTC,null,40.8111743,-74.1831935,83,0,United States,New Jersey,Bloomfield,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-21 00:25:08 UTC,null,29.9643563,-95.5492492,15564,467134,United States,Texas,Houston,4G
+Verizon Wireless,samsung,SM-N920V,ANDROID70,en,2017-07-17 02:57:31 UTC,null,34.979435,-92.0280843,2833,2035,United States,Arkansas,Cabot,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-30 03:27:32 UTC,null,42.55317325,-114.4404778,0,0,United States,Idaho,Twin Falls,4G
+Verizon Wireless,motorola,XT1030,ANDROID44,en,2017-06-15 15:41:28 UTC,null,40.3174063,-80.0319669,336,0,United States,Pennsylvania,Bethel Park,4G
+Verizon Wireless,motorola,XT1030,ANDROID44,en,2017-07-29 21:09:48 UTC,-78,42.4970432,-71.7496415,10428,10491,United States,Massachusetts,Leominster,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-29 18:39:46 UTC,null,40.6888504,-89.7976859,1823,440,United States,Illinois,null,4G
+Verizon Wireless,blackberry,STV100-2,ANDROID60,en,2017-07-11 22:17:30 UTC,null,19.543333,-154.9017983,618,0,United States,Hawaii,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-05-16 23:20:11 UTC,-62,33.5353383,-112.2627583,3176,9690,United States,Arizona,null,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID60,en,2017-07-19 13:53:55 UTC,-120,42.1590283,-77.1248425,1413,1715,United States,New York,null,4G
+Verizon Wireless,motorola,XT1565,ANDROID60,en,2017-07-16 06:46:02 UTC,-74,45.4683887,-94.0771002,5299,12457,United States,Minnesota,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-01 22:58:55 UTC,null,26.997104,-82.1187196,150,150,United States,Florida,null,3G
+Verizon Wireless,samsung,SM-J320VPP,ANDROID60,en,2017-07-13 19:22:02 UTC,-74,37.2927252,-119.6484307,1353,1773,United States,California,null,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-23 06:40:03 UTC,null,33.1218457,-117.1037478,5300,13110,United States,California,Escondido,4G
+Verizon Wireless,motorola,XT1575,ANDROID60,en,2017-05-30 11:28:27 UTC,null,43.03529799,-87.98364401,24917,24248,United States,Wisconsin,Milwaukee,4G
+Verizon Wireless,kyocera,E6782,ANDROID44,en,2017-05-19 19:17:54 UTC,-72,33.41294922,-110.8380076,3084,40960,United States,Arizona,null,4G
+Verizon Wireless,LGE,VS995,ANDROID70,en,2017-07-24 21:47:23 UTC,-78,39.0468853,-94.4374742,3179,10300,United States,Missouri,Independence,4G
+Verizon Wireless,motorola,XT1565,ANDROID60,en,2017-05-16 20:06:12 UTC,null,38.56273152,-75.55788767,0,0,United States,Delaware,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-22 19:06:23 UTC,null,31.8687669,-81.333839,281,0,United States,Georgia,null,4G
+Verizon Wireless,LGE,VS995,ANDROID70,en,2017-07-30 12:52:58 UTC,null,37.3409579,-76.7357151,0,0,United States,Virginia,null,UNKNOWN
+Verizon Wireless,samsung,SM-N915V,ANDROID60,en,2017-05-21 15:27:27 UTC,null,33.3049419,-112.0526672,175,60,United States,Arizona,Phoenix,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-07 17:31:35 UTC,null,45.77511,-108.582975,0,0,United States,Montana,Billings,4G
+Verizon Wireless,motorola,XT1575,ANDROID60,en,2017-07-17 11:26:12 UTC,-67,40.45776325,-86.18419369,4004,6478,United States,Indiana,null,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-24 00:48:52 UTC,null,41.4833608,-74.3921778,1912,4199,United States,New York,null,4G
+Verizon Wireless,samsung,SM-N915V,ANDROID60,en,2017-07-31 14:03:27 UTC,-53,41.3086775,-76.0245514,0,0,United States,Pennsylvania,Back Mountain,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-27 15:57:53 UTC,-83,37.968146,-121.79134,896,1141,United States,California,Antioch,4G
+Verizon Wireless,samsung,kltevzw,ANDROID51,en,2017-07-12 23:14:24 UTC,-65,29.5742467,-95.022157,887,1172,United States,Texas,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-13 16:16:05 UTC,null,32.1000233,-90.2995769,252,288,United States,Mississippi,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-17 13:09:00 UTC,-83,32.3332431,-90.1652089,13504,25092,United States,Mississippi,Jackson,4G
+Verizon Wireless,motorola,XT1096,ANDROID51,en,2017-07-25 21:32:03 UTC,-85,38.5972122,-90.1490313,1284,810,United States,Illinois,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-16 11:05:54 UTC,null,33.6816078,-112.2756699,1951,5436,United States,Arizona,Peoria,3G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-28 14:34:01 UTC,null,35.4612514,-93.49039,0,0,United States,Arkansas,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-24 15:57:52 UTC,-78,41.9438621,-87.806301,791,964,United States,Illinois,Chicago,4G
+Verizon Wireless,HTC,HTCD160LVWPP,ANDROID60,en,2017-06-30 06:20:05 UTC,null,46.0330043,-118.3836624,24270,31250,United States,Washington,null,4G
+Verizon Wireless,motorola,Moto G (4),ANDROID70,en,2017-07-15 14:21:26 UTC,null,29.8091805,-82.5496252,5294,7810,United States,Florida,null,3G
+Verizon Wireless,KYOCERA,E6810,ANDROID60,en,2017-07-15 18:10:35 UTC,-87,42.9499436,-76.5776639,580,580,United States,New York,Auburn,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-17 15:44:57 UTC,-45,39.9046237,-86.0457676,1125,72,United States,Indiana,null,4G
+Verizon Wireless,LGE,VS425PP,ANDROID51,en,2017-07-20 18:38:45 UTC,-79,30.5551661,-91.136136,1044,560,United States,Louisiana,null,4G
+Verizon Wireless,samsung,SM-G925V,ANDROID60,en,2017-05-29 11:45:27 UTC,-62,44.8743162,-98.5177714,11837,21237,United States,South Dakota,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-20 22:14:14 UTC,-77,41.9285886,-87.9183113,580,580,United States,Illinois,null,4G
+Verizon Wireless,LGE,LG-VS450PP,ANDROID44,en,2017-05-22 14:28:53 UTC,-80,35.72868553,-83.49637535,0,0,United States,Tennessee,null,3G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-25 18:45:15 UTC,-74,38.457221,-82.6471906,0,0,United States,Kentucky,Ashland,4G
+Verizon Wireless,LGE,LG-VS450PP,ANDROID44,en,2017-07-15 15:27:46 UTC,null,45.77189593,-92.58926487,4233,41164,United States,Wisconsin,null,3G
+Verizon Wireless,motorola,XT1030,ANDROID44,en,2017-07-09 17:54:05 UTC,null,33.0002671,-96.6134216,2148,1146,United States,Texas,null,3G
+Verizon Wireless,LGE,LG-VS450PP,ANDROID44,en,2017-07-29 23:13:09 UTC,null,32.42710511,-86.20554219,896,170,United States,Alabama,Montgomery,3G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-21 17:25:57 UTC,null,40.4879629,-95.8510909,0,0,United States,Nebraska,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-14 15:49:27 UTC,null,33.89922,-84.4942171,798,488,United States,Georgia,null,4G
+Verizon Wireless,motorola,XT1650,ANDROID70,en,2017-07-18 02:26:30 UTC,-77,41.4918425,-87.4437629,0,0,United States,Indiana,Schererville,4G
+Verizon Wireless,samsung,SM-J320VPP,ANDROID60,en,2017-07-18 00:52:47 UTC,-83,32.9461918,-84.346718,6491,50327,United States,Georgia,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-24 02:57:00 UTC,null,46.9860295,-122.8757908,52,52,United States,Washington,null,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-26 14:09:50 UTC,null,31.6586124,-95.6863424,25156,100671,United States,Texas,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-09 12:57:10 UTC,null,39.2948611,-76.7015011,0,0,United States,Maryland,Baltimore,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-27 04:18:46 UTC,null,41.2040356,-96.1130058,0,0,United States,Nebraska,Omaha,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID70,en,2017-07-12 18:35:09 UTC,null,37.6332782,-84.7206429,0,0,United States,Kentucky,null,4G
+Verizon Wireless,BlackBerry,BBB100-3,ANDROID71,en,2017-07-17 15:13:45 UTC,-89,39.997873,-74.1802658,18266,87116,United States,New Jersey,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-14 18:00:42 UTC,null,42.0176351,-88.3345016,0,0,United States,Illinois,Elgin,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-28 23:08:12 UTC,null,44.4048327,-72.9932484,7189,19461,United States,Vermont,null,3G
+Verizon Wireless,samsung,SM-N915V,ANDROID60,en,2017-07-28 19:11:30 UTC,null,38.1715932,-92.6895632,780,996,United States,Missouri,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-31 04:07:23 UTC,null,33.6574973,-112.1693702,4744,11711,United States,Arizona,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-17 17:42:43 UTC,null,38.5786704,-75.2916726,7377,46281,United States,Delaware,null,4G
+Verizon Wireless,motorola,XT1575,ANDROID60,en,2017-07-17 18:57:28 UTC,-79,38.8985065,-77.0152218,1421,810,United States,District of Columbia,District of Columbia,4G
+Verizon Wireless,LGE,VS990,ANDROID60,en,2017-07-29 19:29:47 UTC,null,32.89880156,-83.78509789,6721,5524,United States,Georgia,Macon,4G
+Verizon Wireless,motorola,Nexus 6,ANDROID70,en,2017-07-24 21:11:53 UTC,-60,40.37560881,-105.5051629,747,652,United States,Colorado,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-23 17:32:53 UTC,null,42.9500671,-70.8327018,239,40,United States,New Hampshire,Hampton,4G
+Verizon Wireless,motorola,Nexus 6,ANDROID70,en,2017-07-19 14:40:13 UTC,-78,40.5466346,-111.8948484,0,0,United States,Utah,null,4G
+Verizon Wireless,motorola,XT1060,ANDROID51,en,2017-07-31 02:32:19 UTC,-80,39.9398251,-75.0579754,162484,275870,United States,New Jersey,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-18 19:26:12 UTC,-74,36.0274478,-115.063609,0,0,United States,Nevada,Henderson,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-24 09:22:44 UTC,-80,28.3686544,-80.7059997,0,0,United States,Florida,null,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-26 14:20:23 UTC,-72,42.9476483,-70.8325508,0,0,United States,New Hampshire,Hampton,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-29 15:46:46 UTC,null,36.8174615,-77.7498414,932731,2047345,United States,Virginia,null,4G
+Verizon Wireless,HTC,HTC6500LVW,ANDROID50,en,2017-07-13 22:47:09 UTC,null,37.3921375,-122.1687885,0,0,United States,California,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-27 09:06:03 UTC,-76,33.2689673,-117.3037642,19791,82220,United States,California,Oceanside,4G
+Verizon Wireless,HTC,HTC6525LVW,ANDROID60,en,2017-07-31 11:23:12 UTC,null,32.9364464,-97.1588737,2801,1312,United States,Texas,Southlake,4G
+Verizon Wireless,motorola,XT1575,ANDROID60,it,2017-07-23 17:17:55 UTC,-83,41.1199822,-73.4612365,13501,18559,United States,Connecticut,Norwalk,4G
+Verizon Wireless,samsung,SM-J727V,ANDROID70,en,2017-07-13 12:02:10 UTC,null,45.6970494,-121.8134628,1804,907,United States,Oregon,null,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-29 02:31:09 UTC,null,33.8373552,-118.2271925,695244,3913507,United States,California,Carson,4G
+Verizon Wireless,kyocera,E6782,ANDROID44,en,2017-06-25 19:09:20 UTC,-77,33.85559149,-118.2831367,2665,1666,United States,California,Carson,4G
+Verizon Wireless,motorola,XT1080,ANDROID44,en,2017-07-20 20:32:56 UTC,null,34.0875208,-117.6631033,29064,60856,United States,California,Upland,4G
+Verizon Wireless,LGE,VS988,ANDROID70,en,2017-07-15 17:56:40 UTC,null,42.4143559,-84.3691194,36028,116610,United States,Michigan,null,3G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-15 09:45:40 UTC,-83,45.2976347,-85.2603637,0,0,United States,Michigan,null,4G
+Verizon Wireless,kyocera,E6782,ANDROID44,en,2017-06-12 16:14:51 UTC,null,39.52471976,-84.38150975,0,0,United States,Ohio,Middletown,4G
+Verizon Wireless,LGE,VS988,ANDROID70,en,2017-07-22 09:28:37 UTC,null,42.3748234,-84.4265379,39090,78190,United States,Michigan,null,3G
+Verizon Wireless,HTC,HTC6500LVW,ANDROID50,en,2017-07-25 12:44:54 UTC,-73,42.3230325,-83.5286969,0,0,United States,Michigan,Canton,4G
+Verizon Wireless,samsung,SM-J320V,ANDROID60,en,2017-07-27 19:36:15 UTC,-83,41.3796878,-81.8143128,817,950,United States,Ohio,Middleburg Heights,4G
+Verizon Wireless,blackberry,STV100-2,ANDROID60,en,2017-07-17 13:50:48 UTC,null,43.6353923,-84.2241746,0,180,United States,Michigan,Midland,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-20 00:04:09 UTC,null,40.799041,-74.2680002,599,533,United States,New Jersey,West Orange,4G
+Verizon Wireless,samsung,SM-J320V,ANDROID60,en,2017-07-28 20:27:21 UTC,null,40.6930883,-73.9839901,0,104,United States,New York,New York,3G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-27 09:17:23 UTC,-85,40.8075979,-74.2518627,8478,22108,United States,New Jersey,West Orange,4G
+Verizon Wireless,HTC,HTCD160LVWPP,ANDROID60,en,2017-05-31 10:20:28 UTC,-80,40.6685105,-73.3734601,16946,10417,United States,New York,Copiague,4G
+Verizon Wireless,samsung,SM-G928V,ANDROID60,en,2017-06-21 03:34:06 UTC,-90,34.8888177,-80.6206804,0,0,United States,North Carolina,null,4G
+Verizon Wireless,LGE,VS995,ANDROID70,en,2017-07-09 21:53:11 UTC,null,36.0394208,-79.7793694,192405,2708939,United States,North Carolina,Greensboro,4G
+Verizon Wireless,LGE,VS985 4G,ANDROID60,en,2017-07-03 02:33:39 UTC,null,35.398674,-78.3738567,75,0,United States,North Carolina,null,4G
+Verizon Wireless,samsung,SM-J100VPP,ANDROID51,en,2017-07-02 21:17:13 UTC,-69,34.5358075,-79.6567875,2499,1480,United States,South Carolina,null,4G
+Verizon Wireless,samsung,SCH-I545,ANDROID50,en,2017-07-29 16:26:37 UTC,-57,36.0589347,-79.3487889,6086,11955,United States,North Carolina,null,4G
+Verizon Wireless,motorola,XT1609,ANDROID60,en,2017-07-24 14:34:10 UTC,-84,34.11121099,-82.10701922,0,0,United States,South Carolina,null,4G
