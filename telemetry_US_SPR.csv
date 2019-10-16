@@ -1,0 +1,528 @@
+﻿author,main_ServiceProvider,,main_Device_Manufacturer,main_Device_Model,main_Device_OS,,,main_Device_DeviceLanguage,main_QOS_QOSDate,main_QOS_SignalStrength,main_QOS_Location_Latitude,main_QOS_Location_Longitude,main_QOS_DeltaTransmittedBytes,main_QOS_DeltaReceivedBytes,main_Country,main_Region,main_City,conn_Generation_Category
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-05-18 21:14:09 UTC,null,36.04348243,-95.88697563,3317,3780,United States,Oklahoma,Tulsa,3G
+Chris Reimer,Sprint,null,HTC,2PZC5,ANDROID71,,,en,2017-07-30 18:43:06 UTC,-77,39.3409204,-76.6416209,928,870,United States,Maryland,Baltimore,4G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-06-15 03:34:40 UTC,-81,38.5419284,-90.3631118,2836,2358,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS777,ANDROID70,,,en,2017-06-10 17:05:38 UTC,-80,38.6672188,-121.3766651,2253167,11143241,United States,California,null,4G
+Chris Reimer,Sprint,null,kyocera,C6725,ANDROID44,,,en,2017-05-01 22:09:34 UTC,null,38.79108601,-90.57515835,0,0,United States,Missouri,null,3G
+Chris Reimer,Sprint,null,kyocera,E6715,ANDROID44,,,es,2017-05-31 20:52:53 UTC,-60,31.08800739,-97.79338863,0,0,United States,Texas,Killeen,4G
+Chris Reimer,Sprint,null,LGE,LG-LS777,ANDROID70,,,en,2017-06-20 00:54:59 UTC,null,38.6671473,-121.373639,0,0,United States,California,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-02 12:32:25 UTC,-85,34.0944581,-83.8845738,124743,502867,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-06-27 15:43:46 UTC,-84,38.73574425,-90.45022604,710,853,United States,Missouri,Maryland Heights,4G
+Chris Reimer,Sprint,null,LGE,LG-LS980,ANDROID44,,,en,2017-06-04 00:17:20 UTC,null,42.07365245,-84.02588725,5508,6079,United States,Michigan,null,3G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-07-29 16:59:18 UTC,null,27.0373169,-80.1126341,0,0,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720,ANDROID50,,,en,2017-07-17 10:07:20 UTC,null,39.3903698,-94.2574061,52,371,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,HTC,0PJA2,ANDROID70,,,en,2017-07-24 01:27:40 UTC,null,42.0432492,-86.5092404,232,438,United States,Michigan,null,4G
+Chris Reimer,SPRINT,null,kyocera,C6725,ANDROID44,,,en,2017-07-16 00:09:43 UTC,-125,43.73908136,-87.78153006,880,880,United States,Wisconsin,null,3G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-07-31 20:42:01 UTC,-85,46.3406129,-124.0544307,0,0,United States,Washington,null,3G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-05-25 23:59:15 UTC,null,36.04872052,-95.95586234,0,0,United States,Oklahoma,Tulsa,3G
+Chris Reimer,Sprint,null,Teleepoch,U673C,ANDROID60,,,en,2017-07-24 14:58:41 UTC,null,34.1232301,-116.4180535,3785,6910,United States,California,Yucca Valley,3G
+Chris Reimer,Sprint,null,samsung,SPH-L710T,ANDROID44,,,en,2017-06-22 17:54:22 UTC,null,39.74686797,-121.5932321,0,0,United States,California,Paradise,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-06-10 19:29:23 UTC,null,25.6244406,-80.4301203,351600,9342,United States,Florida,null,3G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-20 10:29:28 UTC,-96,41.716338,-88.3112693,0,0,United States,Illinois,Oswego,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U1,ANDROID70,,,en,2017-07-21 18:21:25 UTC,-67,28.035391,-82.0732416,2332,34560,United States,Florida,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS775,ANDROID70,,,en,2017-07-30 19:56:08 UTC,-105,40.8861706,-78.2346315,0,0,United States,Pennsylvania,null,3G
+Chris Reimer,Sprint,null,LGE,LGLS990,ANDROID44,,,en,2017-07-12 05:23:48 UTC,null,36.05717077,-78.39995577,0,0,United States,North Carolina,null,3G
+Chris Reimer,Sprint,null,HTC,2PZC5,ANDROID71,,,en,2017-07-21 00:03:21 UTC,-85,38.9485996,-76.9437359,218783,468439,United States,Maryland,Hyattsville,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720,ANDROID50,,,en,2017-07-29 02:57:34 UTC,null,45.0887361,-93.3705537,1742,9111,United States,Minnesota,Brooklyn Park,3G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-20 19:15:07 UTC,-68,33.2027829,-96.632247,580,580,United States,Texas,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS676,ANDROID60,,,en,2017-07-21 16:27:40 UTC,null,27.9676601,-82.7762465,1861,136,United States,Florida,Clearwater,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-05-21 17:05:39 UTC,null,33.7723777,-84.5530644,4980,4415,United States,Georgia,null,UNKNOWN
+Chris Reimer,Sprint,null,LGE,LGLS990,ANDROID50,,,en,2017-07-11 20:50:48 UTC,-83,39.0582088,-94.6103676,580,754,United States,Kansas,Kansas City,3G
+Chris Reimer,Sprint,null,motorola,Moto G (5) Plus,ANDROID70,,,en,2017-07-12 21:27:31 UTC,null,39.9524363,-75.1515094,24578,38259,United States,Pennsylvania,Philadelphia,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-21 21:13:17 UTC,null,40.7169676,-73.9966973,22457,17332,United States,New York,New York,4G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-24 14:52:20 UTC,-68,33.821264,-84.2514214,0,0,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-07-09 14:53:46 UTC,null,28.1235669,-80.7056748,0,0,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-24 17:14:01 UTC,-68,32.9009826,-117.1750823,0,0,United States,California,San Diego,4G
+Chris Reimer,Sprint,null,motorola,Moto G (5) Plus,ANDROID70,,,en,2017-07-18 19:11:30 UTC,-65,41.7326771,-87.838442,2487,3126,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-07-12 04:30:15 UTC,-81,36.1265786,-115.1663473,2856,2822,United States,Nevada,Paradise,3G
+Chris Reimer,Sprint,null,samsung,SPH-L720,ANDROID50,,,en,2017-07-21 20:31:51 UTC,null,44.7547408,-93.217162,52,660,United States,Minnesota,Apple Valley,4G
+Chris Reimer,Sprint,null,LGE,LG-LS777,ANDROID70,,,en,2017-07-20 21:39:24 UTC,null,38.3638037,-75.5518698,0,0,United States,Maryland,Salisbury,4G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-15 17:09:13 UTC,null,26.5437424,-81.8799682,5231,20097,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-25 12:57:28 UTC,-78,33.437067,-112.0017716,5418,15089,United States,Arizona,Phoenix,4G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-28 11:45:50 UTC,null,34.0571751,-83.9772371,4102,5370,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-13 03:38:52 UTC,null,43.6850733,-85.4484266,2054,1087,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS990,ANDROID50,,,en,2017-07-28 19:19:42 UTC,-81,35.9943765,-96.0968165,865,715,United States,Oklahoma,Sapulpa,3G
+Chris Reimer,Sprint,null,motorola,Nexus 6,ANDROID71,,,en,2017-07-14 15:27:29 UTC,-89,42.3991159,-71.1099709,736,736,United States,Massachusetts,Somerville,4G
+Chris Reimer,Sprint,null,motorola,Moto G (4),ANDROID70,,,en,2017-07-26 12:28:20 UTC,-86,40.8727674,-74.8432656,94089,218141,United States,New Jersey,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J727P,ANDROID70,,,en,2017-07-18 01:08:54 UTC,null,40.9808934,-84.1768643,2202,24113,United States,Ohio,null,4G
+Chris Reimer,Sprint,null,HTC,2PYB2,ANDROID70,,,en,2017-07-22 23:07:37 UTC,null,41.4009849,-85.6672767,572,5385,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-31 17:20:45 UTC,null,37.8610531,-122.3020652,15679,66698,United States,California,Berkeley,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U1,ANDROID70,,,en,2017-07-13 22:07:59 UTC,-90,39.0571006,-76.648818,865,4126,United States,Maryland,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J727P,ANDROID70,,,en,2017-07-29 22:17:58 UTC,null,38.8110152,-104.8532033,2555,7367,United States,Colorado,Colorado Springs,4G
+Chris Reimer,Sprint,null,LGE,LGLS990,ANDROID50,,,en,2017-07-13 15:51:09 UTC,null,42.6633759,-82.7887764,257,0,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,kyocera,C6725,ANDROID44,,,en,2017-06-21 18:51:03 UTC,null,27.45285324,-97.7852312,0,0,United States,Texas,null,3G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-07-27 18:38:49 UTC,null,40.8197358,-73.8575275,0,0,United States,New York,New York,4G
+Chris Reimer,Sprint,null,LGE,LG-LS980,ANDROID50,,,en,2017-07-30 22:08:33 UTC,-63,32.9499583,-96.7692033,76,0,United States,Texas,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-07-25 01:49:49 UTC,null,38.8951314,-94.8069087,4666,7426,United States,Kansas,Olathe,4G
+Chris Reimer,Sprint,null,samsung,SM-G928P,ANDROID70,,,en,2017-05-17 15:40:23 UTC,-62,34.3662203,-118.5060606,0,0,United States,California,Santa Clarita,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-05-28 12:54:06 UTC,-77,42.6423359,-87.8453062,141032348,275591220,United States,Wisconsin,null,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-06-11 00:46:50 UTC,null,40.7383784,-74.0667646,403,551,United States,New Jersey,Jersey City,4G
+Chris Reimer,Sprint,null,kyocera,C6725,ANDROID44,,,en,2017-05-17 21:58:05 UTC,-74,38.78874591,-90.56574346,755,757,United States,Missouri,Saint Charles,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-05-18 12:44:41 UTC,-75,40.7597722,-74.2109957,575617,1802080,United States,New Jersey,East Orange,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-07-30 15:12:20 UTC,-82,29.2130419,-82.068803,0,0,United States,Florida,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-06-21 15:43:21 UTC,null,41.10364343,-88.69909239,0,236,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-18 13:38:22 UTC,null,44.8042296,-93.3693333,244,341,United States,Minnesota,Bloomington,4G
+Chris Reimer,Sprint,null,samsung,SPH-L520,ANDROID44,,,en,2017-07-28 20:54:08 UTC,null,31.98264993,-81.14568302,68750,74504,United States,Georgia,Savannah,4G
+Chris Reimer,Sprint,null,Apple,"iPhone9,2",IOS102,,,en,2017-05-18 20:35:31 UTC,null,40.878009,-74.158453,190881,1839100,United States,New Jersey,Clifton,UNKNOWN
+Chris Reimer,Sprint,null,HTC,2PQ93,ANDROID70,,,en,2017-05-29 05:49:11 UTC,null,38.6672419,-121.3768627,0,0,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-T377P,ANDROID60,,,en,2017-07-26 01:37:30 UTC,null,39.7880827,-86.2430401,27990,100758,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L900,ANDROID44,,,en,2017-05-18 19:44:47 UTC,-85,30.00541776,-95.48546437,719,1041,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L900,ANDROID44,,,en,2017-05-12 14:16:53 UTC,null,29.60457457,-98.45930841,0,0,United States,Texas,San Antonio,3G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-01 03:18:38 UTC,null,34.0486045,-117.9381152,1427730,27584022,United States,California,null,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-07-20 20:45:56 UTC,-72,39.1044052,-84.5573658,0,0,United States,Ohio,Cincinnati,4G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-05-29 02:38:33 UTC,-77,38.10893722,-77.51784645,0,0,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G928P,ANDROID70,,,en,2017-06-17 20:01:09 UTC,null,34.0907258,-118.3071033,134438,376332,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID60,,,en,2017-07-18 13:12:12 UTC,-74,38.5220666,-90.3535077,36602,77775,United States,Missouri,Concord,4G
+Chris Reimer,Sprint,null,samsung,SM-T237P,ANDROID44,,,en,2017-06-17 03:26:42 UTC,null,42.3617411,-87.97171604,1384,2336,United States,Illinois,null,3G
+Chris Reimer,Sprint,null,samsung,SPH-L720T,ANDROID44,,,es,2017-05-17 23:23:03 UTC,-87,39.7617629,-104.8265298,0,0,United States,Colorado,Aurora,4G
+Chris Reimer,Sprint,null,motorola,XT1056,ANDROID44,,,en,2017-05-17 01:50:02 UTC,-83,39.8113983,-86.1465522,726491,20860041,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-26 14:53:44 UTC,-87,37.5338866,-121.9944625,367,454,United States,California,Fremont,4G
+Chris Reimer,Sprint,null,samsung,SPH-L520,ANDROID44,,,en,2017-06-09 15:48:24 UTC,-77,33.7291976,-117.8556512,0,0,United States,California,Santa Ana,4G
+Chris Reimer,Sprint,null,HTC,0PJA2,ANDROID70,,,en,2017-07-23 15:12:21 UTC,null,36.3445046,-86.792703,0,0,United States,Tennessee,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-07-18 17:43:56 UTC,null,43.4833423,-111.9977701,1327041,5580604,United States,Idaho,Idaho Falls,4G
+Chris Reimer,Sprint,null,LGE,LGLS990,ANDROID50,,,en,2017-07-16 15:13:30 UTC,-79,38.7204879,-90.0931221,2432,7877,United States,Illinois,Granite City,4G
+Chris Reimer,Sprint,null,samsung,SM-N915P,ANDROID60,,,en,2017-06-02 15:33:18 UTC,null,38.9661994,-77.1801975,294171,632805,United States,Virginia,McLean,3G
+Chris Reimer,Sprint,null,LGE,LGLS991,ANDROID60,,,en,2017-07-31 17:03:18 UTC,null,33.7813152,-117.9412959,18339,46539,United States,California,Garden Grove,4G
+Chris Reimer,Sprint,null,samsung,SM-G928P,ANDROID70,,,en,2017-07-29 12:56:00 UTC,-68,42.3581144,-83.080292,1741,1380,United States,Michigan,Detroit,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-05-30 07:26:55 UTC,null,34.7532489,-92.2646837,166,80,United States,Arkansas,North Little Rock,4G
+Chris Reimer,Sprint,null,LGE,LGLS991,ANDROID60,,,en,2017-07-29 13:47:07 UTC,null,43.0134031,-85.6398746,11081,21809,United States,Michigan,Grand Rapids,4G
+Chris Reimer,Sprint,null,HTC,831C,ANDROID44,,,en,2017-07-08 17:17:05 UTC,null,44.8747849,-93.1317038,12167,34419,United States,Minnesota,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-05-30 03:21:52 UTC,null,34.7530764,-92.2646837,6239,12441,United States,Arkansas,North Little Rock,4G
+Chris Reimer,Sprint,null,LGE,LGLS775,ANDROID70,,,en,2017-07-13 11:51:14 UTC,null,41.7030663,-85.9463923,3653,7672,United States,Indiana,Elkhart,4G
+Chris Reimer,Sprint,null,samsung,SPH-L600,ANDROID44,,,en,2017-07-19 22:19:08 UTC,-70,34.47828851,-117.2678799,620,651,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-05-30 01:07:26 UTC,-86,36.560427,-87.4227271,8467,7854,United States,Tennessee,Clarksville,4G
+Chris Reimer,Sprint,null,samsung,SM-G928P,ANDROID70,,,en,2017-07-14 15:33:24 UTC,-84,33.9255079,-116.8772307,0,0,United States,California,Banning,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-07-15 23:57:22 UTC,null,30.4370278,-91.1920534,15229,36594,United States,Louisiana,Baton Rouge,4G
+Chris Reimer,Sprint,null,HTC,0PJA2,ANDROID70,,,en,2017-07-15 16:35:52 UTC,null,47.7118468,-116.9395806,753,308,United States,Idaho,Post Falls,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-07-14 21:19:56 UTC,null,38.8800508,-77.0051443,7564,15463,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-07-24 14:17:41 UTC,null,40.92378207,-82.12584584,6577714,6581081,United States,Ohio,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-07-14 20:05:51 UTC,-67,40.7667691,-73.9951581,0,0,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-T817P,ANDROID70,,,en,2017-07-26 20:11:03 UTC,-73,40.8902154,-73.9818895,0,0,United States,New Jersey,Englewood,4G
+Chris Reimer,Sprint,null,samsung,SPH-L600,ANDROID44,,,en,2017-05-24 13:13:34 UTC,null,33.93794349,-118.2736254,18053,18307,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,Huawei,Nexus 6P,ANDROID71,,,en,2017-07-14 22:19:35 UTC,-59,33.4187206,-86.6735725,0,0,United States,Alabama,Hoover,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-27 16:09:50 UTC,null,44.2708046,-88.4508152,544,0,United States,Wisconsin,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID50,,,en,2017-07-15 01:58:18 UTC,null,32.2062207,-110.785974,2116,6438,United States,Arizona,Tucson,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-31 16:19:26 UTC,null,38.8009839,-76.9062777,0,0,United States,Maryland,Camp Springs,3G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-15 20:30:03 UTC,null,38.3729756,-121.9569207,21791,12050,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID44,,,en,2017-06-11 01:59:21 UTC,null,33.6965107,-112.1511534,0,0,United States,Arizona,Phoenix,3G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-15 12:52:23 UTC,null,40.6267204,-74.0236892,0,0,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-06-07 17:12:55 UTC,-86,38.9773705,-77.4371678,784,103,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-18 01:56:41 UTC,-91,26.4118298,-80.0805562,580,580,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-21 00:12:51 UTC,-62,29.9526136,-90.0686275,68617,17234,United States,Louisiana,New Orleans,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-26 22:39:24 UTC,null,37.7797255,-97.5403688,1626,5919,United States,Kansas,null,UNKNOWN
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-15 11:54:11 UTC,-87,47.3056509,-122.3787031,580,580,United States,Washington,Federal Way,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-05-27 14:27:39 UTC,-73,41.5782415,-87.5378886,6710,14423,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID44,,,en,2017-07-25 20:46:24 UTC,null,43.9960313,-88.5388861,29965,345167,United States,Wisconsin,Oshkosh,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-12 14:07:51 UTC,null,38.6051337,-90.4498959,6174,6198,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-26 22:37:45 UTC,null,21.4669643,-158.0024312,0,0,United States,Hawaii,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-30 07:26:13 UTC,null,39.364527,-94.2450514,400,576,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-14 13:41:37 UTC,null,41.0679254,-80.7108189,127,40,United States,Ohio,Youngstown,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-20 19:40:54 UTC,-83,42.4771573,-88.1098543,2928,6980,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-19 22:39:29 UTC,-61,29.7308549,-95.4151819,2122,2523,United States,Texas,Houston,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-18 16:00:48 UTC,null,45.0448235,-93.5100579,4316,4877,United States,Minnesota,Plymouth,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-23 08:55:36 UTC,null,26.4043988,-80.0672218,244,353,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-28 00:54:52 UTC,null,33.657426,-84.5129417,26589,195123,United States,Georgia,Atlanta,4G
+Chris Reimer,Sprint,null,samsung,SM-G900P,ANDROID60,,,en,2017-07-27 11:43:37 UTC,null,41.2001849,-96.0746827,75,40,United States,Nebraska,Omaha,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-24 06:58:19 UTC,null,32.7591115,-96.8842676,5588,194115,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-15 22:12:28 UTC,null,38.5655636,-121.3376512,0,0,United States,California,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-25 08:05:06 UTC,null,29.8512378,-95.7229997,9000,13046,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-21 11:40:47 UTC,null,40.7066169,-74.2268857,2232,17122,United States,New Jersey,Hillside,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-02 03:27:11 UTC,-71,40.766079,-73.9036423,843,323,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-17 22:49:33 UTC,-65,32.9973773,-96.8290205,0,0,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-13 12:40:17 UTC,-77,32.4739627,-99.7319004,0,0,United States,Texas,Abilene,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-19 21:23:55 UTC,-75,36.1056564,-115.17465,2189,41283,United States,Nevada,Paradise,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-06-02 17:31:33 UTC,null,37.1512091,-84.1837058,19087,10263,United States,Kentucky,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-12 15:08:46 UTC,null,41.8685338,-87.7656316,3284,2024,United States,Illinois,Chicago,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-27 19:10:08 UTC,null,29.2202932,-82.1245993,274666,794933,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-05-28 06:08:19 UTC,null,47.648411,-117.5607449,1610,1078,United States,Washington,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-10 21:53:45 UTC,-86,32.911456,-97.1499994,19307,30851,United States,Texas,Colleyville,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-25 19:55:29 UTC,-83,30.4383819,-91.0051224,912,3285,United States,Louisiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-13 17:16:42 UTC,null,29.8958239,-94.3128599,139783,269886,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-23 15:45:45 UTC,-81,41.9854662,-87.657284,3833,6458,United States,Illinois,Chicago,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-05-28 18:50:46 UTC,null,29.4556479,-98.4974526,6589,11917,United States,Texas,San Antonio,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-20 09:44:01 UTC,null,25.7752361,-80.2636357,175,0,United States,Florida,Miami,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-24 21:37:25 UTC,-49,37.5743149,-122.3177806,912,793,United States,California,San Mateo,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-30 04:01:22 UTC,-91,38.8476555,-104.7807526,0,0,United States,Colorado,Colorado Springs,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-24 13:54:57 UTC,-66,37.5553949,-122.2978811,580,580,United States,California,San Mateo,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-05-28 18:31:59 UTC,null,39.7564239,-89.7363819,0,0,United States,Illinois,Springfield,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-11 18:16:37 UTC,-74,42.6137986,-93.5005033,39077,1503402,United States,Iowa,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-17 12:28:03 UTC,-60,41.9720299,-87.8713931,580,580,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-05-24 17:45:33 UTC,-77,33.7511931,-117.8730832,1751,868,United States,California,Santa Ana,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-20 13:32:10 UTC,-87,44.6849362,-93.3612698,0,0,United States,Minnesota,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-24 08:15:19 UTC,-82,39.5141954,-87.1435461,580,580,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-22 00:53:22 UTC,null,41.1674598,-96.0384108,1205,6427,United States,Nebraska,Papillion,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID60,,,en,2017-07-16 09:57:26 UTC,null,40.6456361,-73.9752779,756,447,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-28 14:11:12 UTC,null,40.6925715,-73.9839556,70840,359413,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-23 19:42:43 UTC,-62,42.3292513,-83.0442241,52,0,United States,Michigan,Detroit,4G
+Chris Reimer,Sprint,null,samsung,SM-G920P,ANDROID70,,,en,2017-07-29 05:25:32 UTC,-84,29.3515342,-98.6418082,0,0,United States,Texas,San Antonio,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-29 10:37:02 UTC,-83,37.3384174,-79.5087117,722,1063,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-29 15:22:08 UTC,-70,43.5117029,-96.7838772,65,0,United States,South Dakota,Sioux Falls,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-08 23:26:49 UTC,null,42.1955207,-70.9821827,9454,26558,United States,Massachusetts,Braintree,3G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-09 17:31:02 UTC,null,33.5208751,-82.8710414,20614,32095,United States,Georgia,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-26 15:03:10 UTC,null,42.6305302,-83.3343191,337,4020,United States,Michigan,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-18 13:10:21 UTC,null,41.5355134,-86.0106444,720,0,United States,Indiana,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-31 19:07:09 UTC,null,34.0686758,-118.3094936,10289,46424,United States,California,Los Angeles,3G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-30 01:43:02 UTC,null,39.5807184,-76.9837119,12833,36771,United States,Maryland,Westminster,3G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-25 00:08:10 UTC,-74,37.9414633,-81.2602397,11332256,126449370,United States,West Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-06 22:30:13 UTC,null,30.0047887,-95.2586644,31214,125018,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-06-30 12:32:49 UTC,null,32.9902536,-96.8650288,30679,115965,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-06-30 20:14:59 UTC,-67,39.2984937,-76.584842,0,0,United States,Maryland,Baltimore,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-22 22:31:38 UTC,null,38.8226392,-76.918883,1039,912,United States,Maryland,Camp Springs,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-05-25 12:50:13 UTC,-69,38.6453992,-90.222854,8785,6885,United States,Missouri,St. Louis,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-05-26 03:01:21 UTC,-82,39.9623056,-75.0882624,0,0,United States,New Jersey,Camden,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-05-25 06:14:50 UTC,null,39.9623442,-75.088222,0,0,United States,New Jersey,Camden,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-23 23:18:38 UTC,null,32.8285873,-97.129735,13148,20008,United States,Texas,Bedford,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-23 17:45:22 UTC,-73,29.136947,-82.1990614,0,0,United States,Florida,Ocala,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-06-16 05:14:09 UTC,-94,39.9203144,-86.1425817,0,0,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-26 18:04:39 UTC,-88,41.425567,-73.0698462,0,0,United States,Connecticut,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-20 00:09:33 UTC,null,38.6705225,-121.3493383,0,0,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-19 02:13:27 UTC,-72,42.2406561,-85.3483003,0,0,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-06-20 01:49:53 UTC,null,42.6293209,-82.9348011,60877,140439,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-30 17:27:42 UTC,-70,38.4140387,-90.5792984,0,0,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-31 13:12:20 UTC,null,38.5392325,-75.0595404,19031,44129,United States,Delaware,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-11 20:02:21 UTC,-92,41.4395757,-82.6957082,2644,14836,United States,Ohio,Sandusky,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-06-17 06:36:54 UTC,-84,39.3801909,-75.0721682,0,0,United States,New Jersey,Millville,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-22 15:48:44 UTC,null,45.4871342,-122.4142936,0,0,United States,Oregon,Gresham,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-18 06:10:46 UTC,null,38.9573568,-77.3527213,702,998,United States,Virginia,Reston,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-25 11:42:36 UTC,null,28.5347149,-81.3830736,6546,8713,United States,Florida,Orlando,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-06-21 06:15:41 UTC,null,39.4258796,-75.2332886,3086,1953,United States,New Jersey,Bridgeton,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-16 22:45:47 UTC,null,33.8313697,-118.0835534,342,152,United States,California,Long Beach,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-31 21:24:28 UTC,-80,26.3153354,-80.170859,922,652,United States,Florida,Coconut Creek,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-18 00:36:52 UTC,-61,40.743172,-74.0073009,1325,1769,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-29 21:30:55 UTC,null,42.2773288,-87.9654795,2241,7515,United States,Illinois,Libertyville,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-26 10:12:17 UTC,-87,42.1135736,-87.8054081,52,0,United States,Illinois,Northbrook,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-12 12:35:11 UTC,null,29.5268911,-98.5980315,52,384,United States,Texas,San Antonio,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-05-27 10:38:33 UTC,null,40.0397836,-85.7153385,0,0,United States,Indiana,Anderson,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-23 23:12:59 UTC,-77,42.8757328,-84.1288363,580,580,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-16 17:18:40 UTC,-79,42.5215945,-70.9154804,580,580,United States,Massachusetts,Salem,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-12 20:36:02 UTC,null,28.422701,-81.476686,26503,298562,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-16 19:20:31 UTC,null,27.3389021,-82.520444,1156,1051,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-31 09:28:44 UTC,-71,42.4851768,-83.2260068,0,0,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-30 01:44:22 UTC,-71,47.9365542,-122.2168063,879,1363,United States,Washington,Everett,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-28 14:57:02 UTC,null,29.4293196,-98.4813312,1890,5326,United States,Texas,San Antonio,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-14 08:12:25 UTC,null,45.1078306,-93.3125983,0,0,United States,Minnesota,Brooklyn Park,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-25 07:59:12 UTC,null,37.0854951,-94.4720903,4609,15652,United States,Missouri,Joplin,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-05-27 00:20:03 UTC,null,34.159191,-118.2644937,168,216,United States,California,Glendale,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-17 19:28:54 UTC,null,38.9330359,-77.428429,1795,384,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-20 15:56:01 UTC,-45,29.4429774,-98.5060392,580,551,United States,Texas,San Antonio,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-29 03:31:08 UTC,-83,33.9791136,-117.703788,104,6084,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-13 17:09:54 UTC,-72,43.3325994,-83.7386732,632,663,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-31 14:41:08 UTC,null,41.2571297,-85.8302397,0,0,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-31 20:52:45 UTC,-85,41.0757935,-85.336263,0,0,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-14 11:41:01 UTC,-84,38.5546405,-121.3482661,33647,107172,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-25 04:00:19 UTC,-81,26.2203619,-80.1049938,21648,27975,United States,Florida,Pompano Beach,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-12 12:57:59 UTC,-78,44.7302867,-85.6336911,1296,1398,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-20 02:25:03 UTC,null,31.8404889,-102.3686829,3742,76208,United States,Texas,Odessa,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-14 17:49:08 UTC,null,28.5403401,-81.3802435,114651,25198,United States,Florida,Orlando,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-28 05:38:57 UTC,null,31.6848206,-89.1472298,144028,143996,United States,Mississippi,Laurel,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-05-25 01:48:06 UTC,null,37.5265736,-77.6950365,787,0,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-24 19:53:51 UTC,null,36.6446233,-121.6120705,3281,5796,United States,California,Salinas,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-17 21:22:49 UTC,-84,42.3063409,-83.4768264,649,734,United States,Michigan,Canton,4G
+Chris Reimer,Sprint,null,samsung,SM-G930P,ANDROID70,,,en,2017-07-15 15:54:57 UTC,-70,25.6893851,-80.1789202,0,0,United States,Florida,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-18 21:18:34 UTC,null,31.8265814,-106.520327,6009,13588,United States,Texas,El Paso,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-12 17:34:07 UTC,null,39.1207939,-95.0633558,5568,362,United States,Kansas,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-16 02:06:26 UTC,null,33.1762168,-96.7356738,19371,48387,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-05-30 06:46:52 UTC,-89,38.5749131,-90.2372558,4954,4255,United States,Missouri,St. Louis,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-23 02:34:04 UTC,null,33.0287661,-96.771389,168,216,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-06-14 22:39:14 UTC,-59,32.8493851,-96.7716993,0,0,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-29 02:28:28 UTC,null,41.5716855,-87.4623996,1350,2235,United States,Indiana,Hammond,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-10 15:16:43 UTC,-57,29.9289488,-95.4114021,720,691,United States,Texas,Houston,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-29 19:28:57 UTC,-85,27.9287432,-82.7726349,140,140,United States,Florida,Largo,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-26 16:46:14 UTC,-77,26.171538,-81.8016081,0,0,United States,Florida,Naples,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-30 18:16:36 UTC,-61,44.9411622,-92.9574356,0,0,United States,Minnesota,Woodbury,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-27 07:56:10 UTC,null,39.4487291,-119.7704594,256759,1330247,United States,Nevada,Reno,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-18 15:39:04 UTC,null,37.338904,-121.8941817,11536602,27444742,United States,California,San JosÃ©,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-09 22:41:16 UTC,-74,40.6714427,-75.3120754,6110,11764,United States,Pennsylvania,Bethlehem,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-21 19:19:04 UTC,null,40.492027,-79.8969736,38305,106820,United States,Pennsylvania,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-28 21:56:36 UTC,null,36.8333749,-119.7078645,2461,12258,United States,California,Clovis,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-12 13:35:57 UTC,null,33.9804816,-118.1307605,455753,874149,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-05-25 10:10:03 UTC,-77,39.1080134,-84.5062832,406,484,United States,Ohio,Cincinnati,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-16 23:43:19 UTC,null,40.8729024,-73.9082418,844,6265,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-21 04:59:34 UTC,-74,38.9255455,-77.0346773,4036,1373,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-15 15:20:33 UTC,-95,38.5615713,-77.7450655,2322,6735,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-26 23:43:05 UTC,-73,38.7448813,-121.2662467,0,0,United States,California,Roseville,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-05-29 07:32:28 UTC,null,38.5749131,-90.2372558,2338,1270,United States,Missouri,St. Louis,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-27 08:15:03 UTC,null,38.9232397,-77.056986,27227,32108,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-28 11:05:27 UTC,-73,38.8501044,-76.9046831,120,184,United States,Maryland,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-27 20:49:15 UTC,-78,41.4716442,-87.0314957,3978,5849,United States,Indiana,Valparaiso,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-21 21:13:27 UTC,null,41.1778523,-85.1339886,22680,58913,United States,Indiana,Fort Wayne,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-14 01:55:11 UTC,null,41.9746315,-88.1383557,11935,18770,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID60,,,en,2017-07-08 16:30:42 UTC,-79,33.7643944,-118.0274028,7377,22564,United States,California,Westminster,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-05-26 06:04:57 UTC,-75,28.8619181,-96.9962033,771,1104,United States,Texas,Victoria,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-05-30 02:03:49 UTC,-61,38.9111942,-77.0223068,1456,62516,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-05-14 08:04:45 UTC,-61,33.5449025,-101.9251153,325201,448968,United States,Texas,Lubbock,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-31 12:41:12 UTC,null,43.1777209,-87.9745273,640,459,United States,Wisconsin,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-29 17:02:51 UTC,-91,42.5594007,-70.8822171,0,0,United States,Massachusetts,Beverly,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-26 01:30:29 UTC,-67,37.8134305,-122.2654966,3000,7138,United States,California,Oakland,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-28 23:13:07 UTC,-78,38.8591203,-76.9995792,1727,3060,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-13 09:32:08 UTC,null,35.3114284,-81.0609654,48195,831347,United States,North Carolina,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-27 22:49:10 UTC,null,44.1649289,-93.9800069,0,0,United States,Minnesota,Mankato,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-26 16:16:39 UTC,-81,34.2658885,-118.4750931,1133,1555,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-14 02:47:38 UTC,-75,33.4013785,-84.2033092,580,580,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-05-25 00:44:48 UTC,null,38.0016227,-121.8221425,20665,18456,United States,California,Antioch,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-12 03:23:13 UTC,-56,40.434671,-79.9526702,649,734,United States,Pennsylvania,Pittsburgh,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-27 04:29:44 UTC,-85,40.7995546,-96.6503179,0,0,United States,Nebraska,Lincoln,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-15 04:20:16 UTC,null,40.4344475,-79.9537192,3063,1974,United States,Pennsylvania,Pittsburgh,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-25 06:45:25 UTC,null,39.0324877,-94.6665101,404,594,United States,Kansas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-26 10:51:50 UTC,null,41.0871978,-111.9703208,4586,22473,United States,Utah,Layton,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-22 16:11:10 UTC,null,43.1168421,-76.2175883,0,0,United States,New York,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-31 16:51:49 UTC,null,45.639732,-122.6862018,6067,15381,United States,Washington,Vancouver,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-30 18:01:59 UTC,-83,39.218847,-76.8010062,0,0,United States,Maryland,Ellicott City,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-14 23:48:16 UTC,null,33.0028138,-80.1547312,19935,101634,United States,South Carolina,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-26 17:04:19 UTC,-82,42.955061,-78.868464,41633,114255,United States,New York,Buffalo,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-16 20:13:19 UTC,null,38.9034322,-77.0233078,13739,16884,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-18 14:16:37 UTC,null,36.8758309,-76.1350756,14115,32739,United States,Virginia,Virginia Beach,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-21 17:17:45 UTC,null,28.134095,-80.584289,3531,25052,United States,Florida,Melbourne,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-20 10:56:19 UTC,null,29.2756963,-81.1134986,0,0,United States,Florida,Ormond Beach,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-18 06:45:08 UTC,null,44.5522859,-87.6971401,0,0,United States,Wisconsin,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G935P,ANDROID70,,,en,2017-07-27 18:32:01 UTC,-68,41.4699578,-87.1611438,330,330,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-18 23:22:32 UTC,-76,42.0790805,-87.7222601,983,2204,United States,Illinois,Wilmette,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-11 01:44:22 UTC,-79,32.8037543,-97.4312063,3110,4233,United States,Texas,Fort Worth,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-26 21:24:56 UTC,null,34.4394187,-119.9372954,16225,19143,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-28 17:37:22 UTC,null,40.1999468,-74.6600298,0,0,United States,New Jersey,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-19 11:37:50 UTC,null,34.5083077,-83.6510986,2649,6107,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-18 20:32:46 UTC,-81,39.0634164,-94.5256527,0,0,United States,Missouri,Kansas City,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-27 01:26:07 UTC,null,41.8119948,-71.3730298,0,0,United States,Rhode Island,East Providence,UNKNOWN
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-29 11:20:38 UTC,-87,40.1007064,-76.9126885,0,0,United States,Pennsylvania,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-06-28 12:48:54 UTC,null,42.3004924,-71.0623007,34737,84324,United States,Massachusetts,Boston,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-21 10:22:28 UTC,null,33.5262955,-116.7907721,0,0,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-30 23:58:40 UTC,null,37.7771966,-122.1784077,0,0,United States,California,Oakland,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-17 13:20:11 UTC,-83,38.6384384,-90.5705669,0,0,United States,Missouri,Chesterfield,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-28 22:08:20 UTC,null,39.5164995,-76.6533188,0,0,United States,Maryland,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-17 20:09:07 UTC,null,36.6651315,-93.3374749,71,84,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-31 02:37:51 UTC,-72,37.6629555,-97.3387967,580,580,United States,Kansas,Wichita,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-22 02:28:12 UTC,null,29.3388583,-98.4871941,17357,87258,United States,Texas,San Antonio,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-12 02:33:33 UTC,null,40.4804781,-85.5529218,719,0,United States,Indiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-22 15:03:29 UTC,-59,43.9522094,-92.0819613,25142,65951,United States,Minnesota,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-11 21:31:35 UTC,null,40.7345801,-73.9942169,3356,2489,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-17 16:24:23 UTC,-82,30.0527147,-90.3671123,664,0,United States,Louisiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-22 02:08:27 UTC,null,41.7160701,-83.6066648,6991,8053,United States,Ohio,Toledo,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-19 20:51:29 UTC,-69,29.9848648,-95.3362024,649,792,United States,Texas,Houston,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-10 21:00:11 UTC,null,33.8184781,-84.4224263,0,0,United States,Georgia,Atlanta,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-13 16:38:00 UTC,null,41.4722422,-81.7564941,null,302524517,United States,Ohio,Cleveland,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-19 03:06:44 UTC,-76,42.2220875,-83.3501549,0,0,United States,Michigan,Romulus,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-10 21:01:36 UTC,null,34.6485808,-86.6598933,0,0,United States,Alabama,Huntsville,3G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-22 11:27:12 UTC,null,39.623927,-74.4327338,569,142,United States,New Jersey,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-12 21:05:00 UTC,-73,40.4622221,-74.4158679,0,0,United States,New Jersey,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-12 10:34:12 UTC,null,40.6442503,-73.9088734,0,0,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-26 15:23:52 UTC,null,36.9174362,-76.3063757,560165,10276751,United States,Virginia,Norfolk,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-25 20:57:51 UTC,null,42.380851,-71.097259,5531,9611,United States,Massachusetts,Somerville,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-18 01:57:22 UTC,null,33.9130578,-84.9936173,0,0,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-25 16:29:55 UTC,null,35.0872119,-106.615628,484,104,United States,New Mexico,Albuquerque,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-13 01:40:04 UTC,-85,41.4721781,-81.7569657,580,580,United States,Ohio,Cleveland,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-16 03:12:39 UTC,-80,34.2528063,-83.4685229,828741,473716,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-20 13:53:48 UTC,null,33.7104912,-112.2203319,91092,3844738,United States,Arizona,Peoria,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-14 07:21:40 UTC,null,34.3105605,-119.1247072,8574,23910,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G950U,ANDROID70,,,en,2017-07-15 03:56:10 UTC,-82,37.807018,-122.2697642,580,580,United States,California,Oakland,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-09 21:35:42 UTC,null,35.5000604,-93.7114385,73364,186385,United States,Arkansas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-27 15:47:29 UTC,-74,48.3051678,-122.3120943,0,0,United States,Washington,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-23 15:11:05 UTC,null,38.6480152,-76.8965398,8724,17070,United States,Maryland,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-20 19:12:39 UTC,-79,41.7122638,-73.920172,0,0,United States,New York,Poughkeepsie,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-07 19:50:34 UTC,-77,41.0737154,-80.649452,652,724,United States,Ohio,Youngstown,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-18 21:06:41 UTC,null,40.2633801,-80.1344337,4973,29928,United States,Pennsylvania,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-19 08:09:12 UTC,null,30.3237128,-81.6550899,72,175,United States,Florida,Jacksonville,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-28 16:41:51 UTC,-67,42.4054023,-82.932703,0,0,United States,Michigan,Detroit,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-14 12:04:18 UTC,-83,29.8711682,-95.5535144,0,0,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-12 00:35:47 UTC,null,41.6438042,-72.87639,0,144,United States,Connecticut,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-31 05:37:14 UTC,-73,37.2999488,-121.8126834,5850,2678,United States,California,San JosÃ©,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-30 18:01:23 UTC,null,37.6448837,-122.4190191,12360,54488,United States,California,South San Francisco,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-18 05:13:27 UTC,null,40.6553963,-73.8040313,34023,559381,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-12 06:02:19 UTC,-83,38.9166643,-104.7328392,117199,85221,United States,Colorado,Colorado Springs,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-08 22:20:32 UTC,null,30.4031469,-81.7212723,17218,205243,United States,Florida,Jacksonville,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-20 01:05:47 UTC,-82,34.0638357,-118.2196648,192,261,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-18 18:22:46 UTC,-66,34.0359505,-117.9485782,2389,1540,United States,California,La Puente,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-24 03:40:01 UTC,-78,29.8711682,-95.5535144,24084,501557,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-17 14:47:01 UTC,-65,29.7500979,-95.4865309,0,0,United States,Texas,Houston,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-28 07:42:01 UTC,null,38.69445,-121.3263211,0,0,United States,California,Citrus Heights,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-25 04:24:32 UTC,-73,34.0578364,-118.1660375,0,0,United States,California,Monterey Park,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-17 11:30:12 UTC,-79,40.1235444,-75.334165,0,0,United States,Pennsylvania,Norristown,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-09 20:54:43 UTC,null,35.2452365,-92.9843154,290971,7116717,United States,Arkansas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-11 15:03:30 UTC,null,41.9404465,-87.705032,3827,51669,United States,Illinois,Chicago,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-21 16:48:58 UTC,null,41.4164497,-87.130358,672,672,United States,Indiana,null,UNKNOWN
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-11 05:23:01 UTC,null,45.548017,-122.5375491,1701,2481,United States,Oregon,Portland,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-25 21:54:33 UTC,null,37.5736318,-77.5239516,0,0,United States,Virginia,Richmond,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-30 00:06:21 UTC,-79,41.1419644,-73.9449486,1374,700,United States,New York,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-30 04:07:22 UTC,-77,33.861608,-117.7717985,24294,3088,United States,California,Anaheim,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-25 18:11:56 UTC,null,36.0314525,-79.8059528,51219,80864,United States,North Carolina,Greensboro,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-23 16:35:09 UTC,-78,37.0182674,-120.1484957,572232,10713201,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-12 05:05:04 UTC,null,40.5759296,-75.8620422,5556,16991,United States,Pennsylvania,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-29 22:23:55 UTC,null,38.9931111,-94.3640604,6031,14884,United States,Missouri,Lees Summit,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-26 20:57:58 UTC,null,29.2277786,-81.0873118,5007,1755,United States,Florida,Daytona Beach,3G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-14 14:40:43 UTC,null,42.4996289,-83.516733,0,0,United States,Michigan,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-30 15:41:01 UTC,-64,41.523903,-74.0309302,33753,125150,United States,New York,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-31 23:14:39 UTC,null,32.8299542,-117.1198227,60495,178034,United States,California,San Diego,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-30 15:52:45 UTC,-86,32.8372345,-97.2265193,1553,1589,United States,Texas,North Richland Hills,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-18 10:28:37 UTC,null,30.3235717,-81.654808,3879,12577,United States,Florida,Jacksonville,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-20 07:49:25 UTC,null,34.5210993,-82.3513611,206264,634178,United States,South Carolina,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-18 02:40:38 UTC,-75,33.099839,-117.0738279,580,580,United States,California,Escondido,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-18 15:13:48 UTC,-64,28.8198474,-96.9683937,801,478,United States,Texas,Victoria,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-26 12:22:46 UTC,null,41.6324648,-70.9328181,8370,28755,United States,Massachusetts,New Bedford,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U,ANDROID70,,,en,2017-07-27 06:18:37 UTC,-79,29.8985403,-89.9029616,14692,1091823,United States,Louisiana,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-05-28 02:45:25 UTC,null,38.0744472,-79.3920037,25691,37674,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-19 21:49:24 UTC,null,33.3791562,-86.8188135,5894,24600,United States,Alabama,null,3G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-24 17:39:54 UTC,null,29.6225869,-95.1993583,25201,63341,United States,Texas,Houston,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-25 18:54:21 UTC,null,35.4058219,-80.8635187,10881,6742,United States,North Carolina,Huntersville,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID44,,,en,2017-07-24 23:07:46 UTC,null,39.36955594,-76.59472914,722,1063,United States,Maryland,Baltimore,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-21 02:29:42 UTC,null,37.3923031,-76.7808201,135040,286419,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-18 21:46:18 UTC,null,36.9986402,-86.4479859,494,814,United States,Kentucky,Bowling Green,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-19 03:01:08 UTC,null,40.5897845,-73.6209658,1175,630,United States,New York,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID44,,,en,2017-06-23 20:25:37 UTC,null,38.98684631,-84.71748084,3082,1638,United States,Kentucky,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-26 13:33:18 UTC,-86,37.8757656,-84.6489303,128,236,United States,Kentucky,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-28 20:05:26 UTC,null,29.9560405,-89.9802784,167701,1232855,United States,Louisiana,Chalmette,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-21 04:22:26 UTC,null,42.0102151,-91.6415418,308,251,United States,Iowa,Cedar Rapids,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-29 13:27:04 UTC,-82,40.4663704,-88.9852837,0,0,United States,Illinois,Bloomington,4G
+Chris Reimer,Sprint,null,samsung,SM-N910P,ANDROID60,,,en,2017-07-19 17:53:12 UTC,null,32.7815737,-96.7963679,757,965,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,ko,2017-06-08 00:53:30 UTC,null,33.9660883,-118.121076,0,0,United States,California,Downey,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-21 16:39:15 UTC,null,40.9273965,-73.8292821,766,0,United States,New York,Mount Vernon,3G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-21 16:42:13 UTC,null,35.9181601,-78.9310893,4105,22775,United States,North Carolina,Durham,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-14 05:36:17 UTC,null,34.2723146,-118.7200396,331,709,United States,California,Simi Valley,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-22 18:48:59 UTC,null,33.7012384,-78.8720351,4122,6386,United States,South Carolina,Myrtle Beach,3G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-05-21 17:09:19 UTC,null,41.8720709,-87.8262274,2801,8932,United States,Illinois,Forest Park,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-25 00:59:08 UTC,null,40.0521046,-75.0021494,3351,19587,United States,Pennsylvania,Philadelphia,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-10 23:27:15 UTC,null,40.7134628,-73.9119737,18415,39890,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-20 14:57:35 UTC,null,40.8757219,-73.862317,156,187,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-17 09:42:30 UTC,null,29.3752806,-98.4079712,1673,2520,United States,Texas,San Antonio,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-15 14:11:56 UTC,null,40.7128067,-73.8124644,0,0,United States,New York,New York,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-25 22:46:28 UTC,null,41.9391943,-87.7106345,289046,1342346,United States,Illinois,Chicago,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-05-26 12:00:31 UTC,-76,32.8159583,-96.8161757,0,0,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-06-30 06:28:44 UTC,-89,39.7191493,-105.1373738,0,0,United States,Colorado,Lakewood,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-12 07:25:35 UTC,-86,40.8848147,-85.4908851,0,0,United States,Indiana,Huntington,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,ko,2017-06-08 13:01:23 UTC,-82,34.0622307,-118.3136721,381,398,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-08 18:22:40 UTC,-79,44.2775513,-88.4461865,4549,8288,United States,Wisconsin,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-21 12:31:13 UTC,null,37.3056251,-121.8579956,10535,11617,United States,California,San JosÃ©,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-22 08:31:17 UTC,null,41.6598723,-87.4674687,72,0,United States,Indiana,East Chicago,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-19 17:46:02 UTC,null,35.1288609,-106.7149754,5931,14589,United States,New Mexico,Albuquerque,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-05-20 14:45:12 UTC,null,47.675425,-122.3733211,53116,92621,United States,Washington,Seattle,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-30 20:08:55 UTC,-84,43.4522219,-83.7572613,0,0,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-05-27 00:08:57 UTC,-77,34.0634002,-118.3638634,8631,23736,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-29 15:32:50 UTC,-79,38.7568034,-121.2721143,580,580,United States,California,Roseville,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-05-30 19:30:12 UTC,null,34.0633617,-118.3638976,58698,31664,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-16 16:22:08 UTC,-51,40.8379065,-96.7044601,0,0,United States,Nebraska,Lincoln,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-26 17:05:25 UTC,-70,41.4461235,-75.6671742,26197,49228,United States,Pennsylvania,Scranton,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-15 04:18:46 UTC,-84,44.9504211,-93.0856425,580,580,United States,Minnesota,Saint Paul,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-17 16:46:33 UTC,-83,42.4843613,-76.4904107,0,0,United States,New York,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-26 08:29:35 UTC,-71,35.9230408,-84.0769114,0,0,United States,Tennessee,Knoxville,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-26 13:23:16 UTC,null,32.8037754,-97.0113736,389,0,United States,Texas,Grand Prairie,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-28 00:14:08 UTC,null,43.0407233,-83.6582166,1003,304,United States,Michigan,Flint,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-26 18:10:06 UTC,null,41.5992728,-87.7143957,1089,825,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N920P,ANDROID70,,,en,2017-07-20 11:30:04 UTC,null,26.1415726,-80.1462896,0,0,United States,Florida,Fort Lauderdale,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-09 11:13:44 UTC,null,33.31932397,-84.28902257,40840,29206,United States,Georgia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-11 20:22:38 UTC,-67,41.6554742,-86.15766548,1720,3979,United States,Indiana,Mishawaka,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-16 01:32:33 UTC,null,41.25177744,-80.78428649,75932,973819,United States,Ohio,Warren,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-07-07 14:43:29 UTC,-76,38.94631322,-94.58870572,0,0,United States,Missouri,Kansas City,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-07-04 21:53:53 UTC,null,33.85805046,-118.1129151,21759,1288,United States,California,Lakewood,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-07-26 18:26:39 UTC,-77,43.01632954,-87.92760069,580,580,United States,Wisconsin,Milwaukee,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-08 15:04:36 UTC,null,43.2558807,-84.92566812,0,0,United States,Michigan,null,3G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-22 16:22:54 UTC,null,38.52138019,-121.4334006,4341,11533,United States,California,Sacramento,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-24 18:33:49 UTC,null,39.9716886,-75.3286459,1459,19975,United States,Pennsylvania,null,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-10 22:55:21 UTC,null,41.59590861,-93.64594305,16465,402108,United States,Iowa,Des Moines,3G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-05-31 02:16:03 UTC,null,43.25595616,-84.92585454,1523,0,United States,Michigan,null,4G
+Chris Reimer,Sprint,null,samsung,SM-T217S,ANDROID44,,,en,2017-07-21 10:49:44 UTC,-87,40.1507005,-88.956714,1795,1570,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-05-03 12:33:26 UTC,-62,39.74689073,-92.26623925,0,0,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-07-05 03:26:30 UTC,null,30.01705832,-95.80054772,0,0,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-05-07 08:40:38 UTC,null,40.44062105,-79.96146415,9129,10305,United States,Pennsylvania,Pittsburgh,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-06-12 00:08:03 UTC,null,39.74687506,-92.26627616,6400,18867,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-07-06 19:49:51 UTC,null,38.36986272,-75.56631686,12759,23164,United States,Maryland,null,3G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-06-07 03:45:28 UTC,null,40.79642799,-81.35167799,48755,82976,United States,Ohio,Canton,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-07-07 15:19:28 UTC,null,29.64976819,-95.23277785,18476,46781,United States,Texas,Houston,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-07-06 23:43:43 UTC,null,38.8728198,-94.7957106,336894,15641640,United States,Kansas,Olathe,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-05-28 03:05:21 UTC,null,39.49530746,-76.89203516,0,0,United States,Maryland,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L710,ANDROID44,,,en,2017-07-23 12:55:25 UTC,-77,45.5257204,-122.6959324,0,0,United States,Oregon,Portland,4G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-05-05 07:17:56 UTC,-125,30.28591228,-94.82876496,0,0,United States,Texas,null,3G
+Chris Reimer,Sprint,null,samsung,SM-G928P,ANDROID70,,,en,2017-06-21 16:35:54 UTC,null,39.18918919,-76.76206908,35415,79708,United States,Maryland,null,UNKNOWN
+Chris Reimer,Sprint,null,HTC,2PZC5,ANDROID71,,,en,2017-07-12 00:37:20 UTC,-47,40.7523411,-73.7255358,5762,31255,United States,New York,New York,4G
+Chris Reimer,Sprint,null,LGE,LG-LS777,ANDROID70,,,en,2017-06-19 22:05:54 UTC,-82,38.6673263,-121.3768326,0,0,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-06-23 17:19:36 UTC,-53,33.0029579,-96.702799,12298,32323,United States,Texas,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-06-15 12:23:08 UTC,-94,30.65178185,-88.08437309,662,0,United States,Alabama,Mobile,3G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-07-11 13:54:35 UTC,null,33.43816441,-84.45563899,4856,5624,United States,Georgia,Fayetteville,4G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-06-25 22:04:01 UTC,null,41.02429867,-83.666858,405,0,United States,Ohio,Findlay,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-25 00:28:29 UTC,null,36.2032373,-115.0514297,34076,813511,United States,Nevada,Sunrise Manor,3G
+Chris Reimer,Sprint,null,LGE,LGLS990,ANDROID50,,,en,2017-07-29 11:52:19 UTC,-72,39.8042409,-105.1139841,90651,100357,United States,Colorado,null,3G
+Chris Reimer,Sprint,null,HTC,HTCONE,ANDROID50,,,en,2017-07-21 22:16:47 UTC,null,30.1856451,-81.5535151,0,0,United States,Florida,Jacksonville,4G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-09 11:58:37 UTC,-72,39.6244139,-77.7686315,7648,8226,United States,Maryland,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS885,ANDROID44,,,en,2017-05-22 23:27:59 UTC,null,37.68704245,-93.0436875,0,0,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS775,ANDROID70,,,en,2017-07-17 07:12:39 UTC,null,41.7688154,-87.6927124,443,81,United States,Illinois,Chicago,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-05-26 20:26:57 UTC,-54,38.9072694,-77.0326194,2345,8901,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-06-12 21:54:16 UTC,null,36.2307516,-79.5189186,5978,0,United States,North Carolina,null,3G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-05-29 14:39:44 UTC,null,40.073412,-83.0235443,980,472,United States,Ohio,Columbus,4G
+Chris Reimer,Sprint,null,samsung,SM-J727P,ANDROID70,,,en,2017-07-07 21:45:38 UTC,-78,38.63935633,-121.4637821,684,715,United States,California,Sacramento,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-27 14:17:58 UTC,null,35.5570875,-78.5958415,1240,5599,United States,North Carolina,null,3G
+Chris Reimer,Sprint,null,samsung,SM-J727P,ANDROID70,,,en,2017-07-07 07:11:28 UTC,null,38.64748666,-121.299511,0,0,United States,California,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-05-26 12:44:29 UTC,null,38.9052243,-77.0315623,0,0,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,kyocera,C6725,ANDROID44,,,en,2017-07-16 04:57:54 UTC,null,26.31323595,-98.69081862,104,141,United States,Texas,null,3G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-27 23:50:47 UTC,-61,33.3856708,-111.9314637,0,0,United States,Arizona,null,4G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-07-20 15:25:27 UTC,null,37.49343295,-77.25368006,698,918,United States,Virginia,null,3G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-07-24 11:26:54 UTC,null,32.7544416,-80.0113053,288,6151,United States,South Carolina,Charleston,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-05-25 13:03:00 UTC,-79,38.899481,-77.027064,0,0,United States,District of Columbia,District of Columbia,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-07-30 02:14:58 UTC,-65,29.7265583,-98.115435,344998,414356,United States,Texas,New Braunfels,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-28 21:28:22 UTC,null,33.9530707,-118.1135726,0,0,United States,California,Downey,UNKNOWN
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-13 00:04:50 UTC,-90,39.3691052,-76.4692208,2436,6207,United States,Maryland,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-17 00:02:05 UTC,-82,35.8588876,-86.3939988,262754,959973,United States,Tennessee,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS675,ANDROID51,,,en,2017-07-27 20:36:02 UTC,null,33.2085173,-92.6662259,2495,0,United States,Arkansas,El Dorado,UNKNOWN
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-26 01:16:18 UTC,null,37.539774,-121.9490997,3823,9496,United States,California,Fremont,UNKNOWN
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-29 22:44:22 UTC,null,41.8510931,-88.0450484,364,4867,United States,Illinois,null,3G
+Chris Reimer,Sprint,null,samsung,SM-J727P,ANDROID70,,,en,2017-07-25 14:03:25 UTC,null,39.0694168,-84.4648567,0,0,United States,Kentucky,Fort Thomas,4G
+Chris Reimer,Sprint,null,LGE,LG-LS997,ANDROID70,,,en,2017-07-24 17:50:20 UTC,null,38.6376503,-121.4933781,0,0,United States,California,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J727P,ANDROID70,,,en,2017-07-12 22:14:06 UTC,null,39.2541679,-76.8173025,0,0,United States,Maryland,Ellicott City,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-26 06:09:14 UTC,null,39.6234515,-76.6674446,794,1572,United States,Maryland,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-26 19:26:25 UTC,null,30.2698486,-97.7335866,16393,868711,United States,Texas,Austin,4G
+Chris Reimer,Sprint,null,LGE,LGLS740,ANDROID44,,,en,2017-05-12 20:05:23 UTC,-97,36.88148015,-76.12598882,219,0,United States,Virginia,Virginia Beach,3G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-07-29 13:38:22 UTC,-87,41.567846,-93.6210036,0,0,United States,Iowa,Des Moines,4G
+Chris Reimer,Sprint,null,samsung,SM-G955U1,ANDROID70,,,en,2017-07-26 17:08:43 UTC,null,38.1447694,-122.2244391,5239,18758,United States,California,Vallejo,4G
+Chris Reimer,Sprint,null,LGE,Nexus 5,ANDROID60,,,en,2017-07-18 21:47:57 UTC,-103,44.1733912,-92.6974791,0,0,United States,Minnesota,null,3G
+Chris Reimer,Sprint,null,samsung,SM-J727P,ANDROID70,,,en,2017-07-25 03:06:59 UTC,null,38.8101268,-104.8534071,433,730,United States,Colorado,Colorado Springs,4G
+Chris Reimer,Sprint,null,motorola,Moto E (4),ANDROID71,,,en,2017-07-22 05:44:40 UTC,null,38.7223574,-94.9838385,66792,231665,United States,Kansas,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720,ANDROID50,,,en,2017-07-30 20:50:08 UTC,-77,42.3900746,-83.0837509,78440,122163,United States,Michigan,Detroit,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-20 10:25:15 UTC,null,21.3761691,-158.0237988,1155,244,United States,Hawaii,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS676,ANDROID60,,,en,2017-07-21 16:32:52 UTC,-80,27.9676601,-82.7762465,2305,35700,United States,Florida,Clearwater,4G
+Chris Reimer,Sprint,null,LGE,LG-LS993,ANDROID70,,,en,2017-07-31 14:33:08 UTC,null,38.727221,-90.6533588,8784,5532,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720,ANDROID50,,,en,2017-07-28 00:49:51 UTC,-88,44.8155676,-122.9303761,240,279,United States,Oregon,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720,ANDROID50,,,en,2017-07-12 21:35:34 UTC,null,36.0816371,-79.9631598,884,540,United States,North Carolina,Greensboro,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-07-23 22:20:20 UTC,null,41.3598779,-71.8212197,3948,1543,United States,Rhode Island,Westerly,3G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID50,,,en,2017-07-30 11:08:52 UTC,-90,41.8514236,-88.0450866,0,0,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS990,ANDROID44,,,en,2017-07-06 15:28:24 UTC,-120,47.59519467,-122.3279761,8978,8946,United States,Washington,Seattle,3G
+Chris Reimer,Sprint,null,HTC,831C,ANDROID60,,,en,2017-07-12 02:38:01 UTC,null,37.9643602,-121.9426941,1590,795,United States,California,Concord,3G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-07-22 01:18:02 UTC,null,42.0514156,-88.3367691,10983,24275,United States,Illinois,Elgin,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-14 21:27:42 UTC,-74,30.4804233,-97.674152,4997,15205,United States,Texas,Round Rock,4G
+Chris Reimer,Sprint,null,HTC,0PJA2,ANDROID51,,,en,2017-07-14 22:49:44 UTC,null,40.8037448,-73.9146031,15339,25405,United States,New York,New York,4G
+Chris Reimer,Sprint,null,HTC,2PQ93,ANDROID70,,,en,2017-06-01 19:48:09 UTC,null,32.4446392,-93.9257274,7708,16987,United States,Louisiana,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720T,ANDROID44,,,en,2017-05-01 12:23:43 UTC,null,40.9219604,-74.0800997,2158,4612,United States,New Jersey,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L900,ANDROID44,,,en,2017-05-07 17:23:30 UTC,null,33.77116915,-84.12701412,0,0,United States,Georgia,null,3G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-06-17 23:59:45 UTC,null,41.810515,-87.6071051,104,181,United States,Illinois,Chicago,3G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-07-08 11:59:15 UTC,-80,41.90323718,-88.06030527,0,0,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-06-21 01:32:29 UTC,-77,37.3802867,-121.8521136,113939,146129,United States,California,San JosÃ©,4G
+Chris Reimer,Sprint,null,samsung,SPH-L900,ANDROID44,,,en,2017-06-13 22:29:36 UTC,null,30.00531424,-95.4854197,7336,58457,United States,Texas,null,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720,ANDROID44,,,en,2017-07-20 03:42:48 UTC,null,40.7886106,-74.0052581,660,2567,United States,New Jersey,West New York,3G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-07-23 17:18:41 UTC,null,43.11267801,-88.02652053,33512,8612,United States,Wisconsin,Milwaukee,4G
+Chris Reimer,Sprint,null,samsung,SM-G935U,ANDROID70,,,en,2017-07-23 05:25:25 UTC,-86,44.5115784,-89.5752567,19295,60042,United States,Wisconsin,Stevens Point,4G
+Chris Reimer,Sprint,null,LGE,LG-LS995,ANDROID44,,,en,2017-06-07 15:16:53 UTC,-120,41.2065525,-89.20139242,0,0,United States,Illinois,null,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-07-24 05:54:14 UTC,null,38.6547781,-90.2851811,1502809,1182245,United States,Missouri,St. Louis,3G
+Chris Reimer,Sprint,null,samsung,SM-G928P,ANDROID70,,,en,2017-07-16 00:10:21 UTC,-62,42.4519454,-82.9182528,174,683,United States,Michigan,Saint Clair Shores,4G
+Chris Reimer,Sprint,null,LGE,LGLS755,ANDROID60,,,en,2017-06-10 18:40:34 UTC,-85,34.0629082,-118.3102813,0,0,United States,California,Los Angeles,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-07-23 23:18:52 UTC,null,40.6962705,-89.5885127,307156,350546,United States,Illinois,Peoria,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-07-28 08:20:02 UTC,null,41.6358468,-93.785411,3719,4815,United States,Iowa,Urbandale,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-07-16 00:06:11 UTC,null,42.1042378,-72.6213653,29825,79013,United States,Massachusetts,West Springfield,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-07-10 22:42:50 UTC,null,40.5415749,-80.0811194,139491,282883,United States,Pennsylvania,null,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-07-10 00:24:39 UTC,-83,43.1499303,-70.9322027,8243,9307,United States,New Hampshire,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,es,2017-07-29 10:23:36 UTC,-78,25.7517336,-80.2047774,0,0,United States,Florida,Miami,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-07-18 02:05:19 UTC,-82,33.8715757,-118.3379762,580,551,United States,California,Torrance,4G
+Chris Reimer,Sprint,null,HTC,2PS64,ANDROID70,,,en,2017-07-28 21:42:46 UTC,-83,41.5450078,-87.7952095,490,323,United States,Illinois,Tinley Park,4G
+Chris Reimer,Sprint,null,LGE,LGLS775,ANDROID70,,,en,2017-07-29 22:35:50 UTC,-120,41.0260099,-81.4321905,0,0,United States,Ohio,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-28 05:01:31 UTC,null,44.8541724,-93.2566045,270,0,United States,Minnesota,Bloomington,4G
+Chris Reimer,Sprint,null,LGE,LGLS755,ANDROID60,,,en,2017-07-30 22:58:32 UTC,-81,27.9520894,-82.5178333,0,0,United States,Florida,Tampa,4G
+Chris Reimer,Sprint,null,HTC,831C,ANDROID60,,,en,2017-07-22 04:50:41 UTC,null,47.3733953,-122.1505722,6900,14050,United States,Washington,Kent,4G
+Chris Reimer,Sprint,null,samsung,SM-G530P,ANDROID51,,,en,2017-07-26 20:30:30 UTC,null,44.0912021,-92.5101223,7031,8523,United States,Minnesota,Rochester,4G
+Chris Reimer,Sprint,null,samsung,SM-G935U,ANDROID70,,,en,2017-07-09 14:03:29 UTC,null,38.7094662,-77.1624578,192,208,United States,Virginia,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G925P,ANDROID70,,,en,2017-05-29 18:22:24 UTC,-82,47.561646,-122.653206,1183,1298,United States,Washington,Bremerton,4G
+Chris Reimer,Sprint,null,HTC,2PYB2,ANDROID70,,,en,2017-07-11 06:01:19 UTC,null,39.668459,-104.8888938,4037,7895,United States,Colorado,null,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-11 16:34:46 UTC,null,43.5816118,-116.5749128,630,505,United States,Idaho,Nampa,4G
+Chris Reimer,Sprint,null,samsung,SPH-L720T,ANDROID50,,,en,2017-07-15 03:30:02 UTC,-90,33.7791316,-117.8151264,843,788,United States,California,Orange,4G
+Chris Reimer,Sprint,null,samsung,SM-J327P,ANDROID60,,,en,2017-07-22 04:22:42 UTC,null,44.8542105,-93.2565455,0,0,United States,Minnesota,Bloomington,4G
+Chris Reimer,Sprint,null,LGE,LGLS775,ANDROID70,,,en,2017-07-15 01:11:21 UTC,-76,41.5933272,-88.0498999,42726,1384727,United States,Illinois,Lockport,4G
+Chris Reimer,Sprint,null,Apple,"iPhone9,2",IOS103,,,en,2017-05-30 20:36:52 UTC,null,32.739059,-117.05403,135816,1381328,United States,California,San Diego,UNKNOWN
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-05-19 14:31:26 UTC,-65,41.8022802,-87.6068736,0,0,United States,Illinois,Chicago,4G
+Chris Reimer,Sprint,null,samsung,SM-N900P,ANDROID44,,,en,2017-05-29 19:39:19 UTC,null,41.8106568,-87.6063168,300173,511143,United States,Illinois,Chicago,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-07-26 02:50:16 UTC,null,38.4043839,-90.3675257,1637,938,United States,Missouri,null,4G
+Chris Reimer,Sprint,null,samsung,SM-G928P,ANDROID70,,,en,2017-07-23 17:54:57 UTC,-85,29.900417,-90.0635685,262,198,United States,Louisiana,Harvey,4G
+Chris Reimer,Sprint,null,LGE,LGLS992,ANDROID70,,,en,2017-07-19 13:40:46 UTC,-92,40.7052318,-73.8689325,530,195,United States,New York,New York,4G
+Chris Reimer,Sprint,null,HTC,2PYB2,ANDROID70,,,en,2017-07-17 21:54:27 UTC,null,40.5439014,-80.0481611,25604,107410,United States,Pennsylvania,null,4G
