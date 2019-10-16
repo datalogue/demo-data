@@ -1,0 +1,88 @@
+﻿Device_SIMServiceProviderBrandName,Device_Manufacturer,Device_Model,Device_OS,Device_Language,QOS_Date,QOS_SignalStrength,Location_Latitude,Location_Longitude,QOS_DeltaTransmittedBytes,QOS_DeltaReceivedBytes,Location_Country,Location_Region,Location_City,Connection_GenerationCategory
+Movistar,Sony,E6653,ANDROID51,es,2017-06-11 22:38:25 UTC,null,40.9711017,-5.6622182,14444,13166,Spain,Castile And LeÃ³n,Salamanca,4G
+Movistar,samsung,GT-I9060,ANDROID42,es,2017-08-30 16:00:52 UTC,null,43.3061562,-1.9824948,293,0,Spain,Basque Country,San Sebastian,3G
+Movistar,samsung,SM-G360F,ANDROID50,es,2017-08-18 19:56:19 UTC,-76,38.3562932,-0.4309585,974,572,Spain,Valenciana,Alicante,UNKNOWN
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-08-02 17:04:47 UTC,null,42.8344215,-2.7099115,40,83,Spain,Basque Country,Vitoria,4G
+Movistar,HTC,HTC One,ANDROID50,it,2017-07-15 12:52:29 UTC,null,40.5005379,17.6437742,234,235,Italy,Apulia,Oria,3G
+Movistar,Xiaomi,MI 5s,ANDROID60,es,2017-07-27 19:00:16 UTC,null,36.7095687,-6.1278248,2471,13677,Spain,AndalusÃ­a,Jerez de la Frontera,3G
+Movistar,Wolder,WOLDER_WIAM_65,ANDROID70,es,2017-08-16 08:39:04 UTC,null,41.1120583,1.2426239,8772,6761,Spain,Catalonia,Tarragona,3G
+Movistar,samsung,SM-G950F,ANDROID70,es,2017-09-02 11:05:00 UTC,-122,40.6567986,-4.69987,1440,16362,Spain,Castile And LeÃ³n,Ãvila,4G
+Movistar,samsung,SM-N910F,ANDROID60,ca,2017-07-12 18:02:23 UTC,-102,41.4852736,1.9949604,82198,1828327,Spain,Catalonia,null,4G
+Movistar,samsung,SM-A500FU,ANDROID60,es,2017-08-22 11:14:17 UTC,null,36.4579504,-5.0522598,0,0,Spain,AndalusÃ­a,Estepona,3G
+Movistar,HUAWEI,MHA-L09,ANDROID70,es,2017-07-16 16:40:19 UTC,-72,40.4188115,-3.7038218,0,0,Spain,Madrid,Madrid,4G
+Movistar,bq,Aquaris U Plus,ANDROID71,es,2017-08-04 10:44:10 UTC,-95,42.1384118,-0.4094164,0,0,Spain,Aragon,Huesca,3G
+Movistar,ulefone,Future,ANDROID60,en,2017-08-05 04:17:51 UTC,-99,38.7905125,0.1674953,0,0,Spain,Valenciana,XÃ bia,UNKNOWN
+Movistar,bq,Aquaris E5,ANDROID60,es,2017-08-09 21:00:50 UTC,-109,40.5496155,-3.647596,0,0,Spain,Madrid,Alcobendas,4G
+Movistar,OnePlus,A0001,ANDROID60,es,2017-08-16 19:39:34 UTC,null,37.8971081,-4.7654154,9405,0,Spain,AndalusÃ­a,Cordova,UNKNOWN
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-08-21 10:49:55 UTC,null,40.4797106,-3.3623419,0,0,Spain,Madrid,AlcalÃ¡ de Henares,3G
+Movistar,DOOGEE,Y6,ANDROID60,es,2017-08-21 12:59:03 UTC,-113,43.3561846,-5.8582693,0,0,Spain,Asturias,Oviedo,4G
+Movistar,motorola,MotoG3,ANDROID60,es,2017-07-21 06:01:58 UTC,null,37.34380804,-6.63356157,52,129,Spain,AndalusÃ­a,null,4G
+Movistar,NewBund,Apollo Lite,ANDROID60,es,2017-08-22 06:17:48 UTC,null,40.4665567,-3.572815,609,1125,Spain,Madrid,Madrid,3G
+Movistar,OnePlus,ONEPLUS A5000,ANDROID71,es,2017-08-25 11:52:38 UTC,-91,47.506616,19.04761,0,0,Hungary,Budapest,null,4G
+Movistar,samsung,SM-G930F,ANDROID70,es,2017-07-19 11:33:08 UTC,-107,41.5366878,2.2958245,4294,14742,Spain,Catalonia,null,4G
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-08-25 07:24:33 UTC,null,41.828672,-1.3009925,4750,2930,Spain,Aragon,null,3G
+Movistar,motorola,XT1635-02,ANDROID70,es,2017-08-24 11:44:42 UTC,null,39.1651777,-0.4261738,104,170,Spain,Valenciana,Alzira,3G
+Movistar,samsung,SM-P605,ANDROID51,es,2017-09-05 06:38:39 UTC,null,40.5056792,-4.2360589,35446,56661,Spain,Madrid,null,4G
+Movistar,bq,Aquaris E5,ANDROID60,es,2017-08-25 12:44:16 UTC,null,28.3510064,-16.4020914,0,0,Spain,Canary Islands,Candelaria,3G
+Movistar,samsung,GT-N7100,ANDROID44,es,2017-06-15 11:14:18 UTC,null,42.3403419,-7.8582198,8386,6000,Spain,Galicia,Orense,3G
+Movistar,bq,Aquaris X Pro,ANDROID71,es,2017-07-22 15:08:48 UTC,null,42.2674487,2.8496945,0,0,Spain,Catalonia,null,3G
+Movistar,NewBund,Apollo Lite,ANDROID60,es,2017-07-30 14:19:21 UTC,null,38.0636777,-0.7269166,2578,2340,Spain,Valenciana,Rojales,UNKNOWN
+Movistar,samsung,SM-G530FZ,ANDROID50,ca,2017-08-06 14:08:03 UTC,null,41.3533482,2.0357061,339,299,Spain,Catalonia,Sant Boi de Llobregat,4G
+Movistar,HUAWEI,G7-L01,ANDROID44,es,2017-09-14 16:55:14 UTC,-57,42.8899736,-8.526306,647,715,Spain,Galicia,Santiago de Compostela,3G
+Movistar,bq,Aquaris X Pro,ANDROID71,es,2017-08-02 14:00:42 UTC,-71,50.9440728,6.9559458,38998,1067319,Germany,North Rhine-Westphalia,Cologne,3G
+Movistar,samsung,SM-G930F,ANDROID70,es,2017-07-24 06:42:10 UTC,null,42.8639422,-8.5544517,2291,2810,Spain,Galicia,Santiago de Compostela,4G
+Movistar,bq,Aquaris X5 Plus,ANDROID71,es,2017-08-22 20:03:23 UTC,null,39.5384495,2.4534321,41064,5627,Spain,Balearic Islands,CalviÃ ,UNKNOWN
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-07-31 02:10:05 UTC,-78,40.3549171,-3.8320458,1397,751,Spain,Madrid,AlcorcÃ³n,4G
+Movistar,samsung,SM-G360F,ANDROID50,es,2017-07-12 10:09:54 UTC,null,40.4400409,-3.8022838,4730,0,Spain,Madrid,Pozuelo de AlarcÃ³n,3G
+Movistar,samsung,SM-G955F,ANDROID70,es,2017-09-01 14:39:15 UTC,-106,38.6038539,-0.0474856,0,0,Spain,Valenciana,Altea,4G
+Movistar,samsung,SM-G850F,ANDROID50,es,2017-07-13 18:33:13 UTC,-101,41.3830332,2.049815,5249,11573,Spain,Catalonia,Sant Feliu de Llobregat,3G
+Movistar,samsung,SM-G928F,ANDROID70,es,2017-07-15 17:19:41 UTC,null,41.6307295,-4.7614311,0,0,Spain,Castile And LeÃ³n,Valladolid,4G
+Movistar,samsung,GT-S7580,ANDROID42,es,2017-07-19 09:09:04 UTC,null,42.6341045,-8.9122893,1700,234,Spain,Galicia,null,3G
+Movistar,samsung,SM-A520F,ANDROID60,es,2017-09-03 14:27:19 UTC,null,41.4945045,-0.3080903,580,0,Spain,Aragon,null,3G
+Movistar,samsung,SM-G930F,ANDROID70,es,2017-08-15 21:13:52 UTC,null,41.436821,2.2297894,432,4621,Spain,Catalonia,Badalona,4G
+Movistar,HUAWEI,Y635-L01,ANDROID44,es,2017-06-10 11:53:39 UTC,-97,38.4535861,-6.519961953,1169845,2212228,Spain,Extremadura,null,3G
+Movistar,motorola,MotoG3,ANDROID60,es,2017-09-16 19:50:02 UTC,null,40.4229253,-3.6920099,4224,5289,Spain,Madrid,Madrid,3G
+Movistar,samsung,SM-J710F,ANDROID60,es,2017-08-08 20:12:32 UTC,-119,41.3978731,2.1596156,0,0,Spain,Catalonia,Barcelona,4G
+Movistar,HUAWEI,Y635-L01,ANDROID44,es,2017-09-14 13:18:52 UTC,null,43.3751786,-8.4093417,2796,5478,Spain,null,null,3G
+Movistar,ZTE,ZTE Blade A570,ANDROID51,es,2017-07-29 17:42:51 UTC,null,41.5310302,-4.9210669,722,796,Spain,Castile And LeÃ³n,null,3G
+Movistar,samsung,GT-I9505,ANDROID50,es,2017-08-24 17:07:48 UTC,-46,37.2565009,-6.9499344,634,529,Spain,AndalusÃ­a,Huelva,UNKNOWN
+Movistar,samsung,SM-A520F,ANDROID60,es,2017-08-21 05:19:58 UTC,-86,40.4486718,-3.6355619,161,85,Spain,Madrid,Madrid,4G
+Movistar,LGE,Nexus 5X,ANDROID71,es,2017-07-30 21:45:47 UTC,-113,43.3839821,-4.2520822,0,0,Spain,Cantabria,null,4G
+Movistar,bq,Aquaris E5,ANDROID60,es,2017-09-12 06:49:08 UTC,null,42.5838651,-5.628478,3607,7623,Spain,Castile And LeÃ³n,LeÃ³n,UNKNOWN
+Movistar,samsung,SM-G920F,ANDROID70,es,2017-08-18 12:44:49 UTC,-53,40.0418613,-3.6042109,4784,10511,Spain,Madrid,Aranjuez,UNKNOWN
+Movistar,samsung,SM-G361F,ANDROID51,es,2017-08-19 13:45:01 UTC,null,43.0174162,-2.4777979,0,0,Spain,Basque Country,null,4G
+Movistar,samsung,SM-G930F,ANDROID70,es,2017-09-13 19:49:57 UTC,-106,40.4975248,-3.5529626,0,0,Spain,Madrid,Madrid,4G
+Movistar,bq,Aquaris U Plus,ANDROID71,es,2017-08-25 20:07:41 UTC,null,39.9655956,-0.6255982,10312,19975,Spain,Valenciana,null,4G
+Movistar,samsung,GT-I9505,ANDROID50,es,2017-07-20 17:33:56 UTC,-97,37.4265454,-5.9764003,580,464,Spain,AndalusÃ­a,Seville,4G
+Movistar,bq,Aquaris M5.5,ANDROID60,es,2017-07-17 19:59:41 UTC,null,37.1399267,-1.8516551,17457,29084,Spain,AndalusÃ­a,null,3G
+Movistar,HUAWEI,G7-L01,ANDROID44,es,2017-09-01 18:07:37 UTC,null,39.13604736,-1.679223776,256,334,Spain,Castile-La Mancha,null,3G
+Movistar,HTC,HTC One M9,ANDROID70,es,2017-08-06 10:16:32 UTC,null,42.7433667,-4.2871303,246492,798415,Spain,Castile And LeÃ³n,null,3G
+Movistar,bq,Aquaris X Pro,ANDROID71,es,2017-08-28 11:21:29 UTC,-82,36.5186502,-4.8900709,0,0,Spain,AndalusÃ­a,Marbella,4G
+Movistar,LGE,LG-K420,ANDROID51,es,2017-07-20 17:30:13 UTC,-95,38.888642,-6.9827348,1375,15938,Spain,Extremadura,Badajoz,4G
+Movistar,samsung,SM-G950F,ANDROID70,es,2017-08-30 13:16:07 UTC,-67,41.6650454,-0.7876061,0,0,Spain,Aragon,null,4G
+Movistar,HUAWEI,G7-L01,ANDROID44,es,2017-09-23 11:17:50 UTC,null,28.3360998,-16.4020641,0,0,Spain,Canary Islands,null,3G
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-08-13 19:39:40 UTC,null,41.0806258,-1.0448111,655,0,Spain,Aragon,null,3G
+Movistar,Yota Devices Limited,YD201,ANDROID60,es,2017-09-04 13:18:17 UTC,-95,36.483621,-5.9004939,0,0,Spain,AndalusÃ­a,null,3G
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-07-24 10:00:58 UTC,null,41.4478996,2.2080752,0,0,Spain,Catalonia,Santa Coloma de Gramenet,3G
+Movistar,samsung,SM-G900F,ANDROID60,es,2017-07-29 20:00:37 UTC,null,41.1453877,-8.6148971,1630,596,Portugal,Porto,Porto,3G
+Movistar,HUAWEI,G7-L01,ANDROID44,es,2017-09-16 11:38:57 UTC,-91,37.97880292,-1.063892841,0,0,Spain,Murcia,Murcia,4G
+Movistar,samsung,SM-N910F,ANDROID60,es,2017-08-28 11:29:55 UTC,null,40.3520012,-3.6970237,18759,29546,Spain,Madrid,Madrid,3G
+Movistar,Sony,C6903,ANDROID51,es,2017-09-28 17:24:12 UTC,null,37.8226815,-3.4127733,693,606,Spain,AndalusÃ­a,null,4G
+Movistar,motorola,MotoG3,ANDROID60,es,2017-07-29 08:34:00 UTC,null,42.02069977,2.81630006,798,608,Spain,Catalonia,null,UNKNOWN
+Movistar,ZTE,ZTE Blade A570,ANDROID51,es,2017-08-10 11:35:28 UTC,-103,37.1553481,-1.8248814,10420,158874,Spain,AndalusÃ­a,null,3G
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-08-18 08:13:58 UTC,null,40.2099381,-3.5751005,0,0,Spain,Madrid,San MartÃ­n de la Vega,UNKNOWN
+Movistar,HUAWEI,G7-L01,ANDROID44,es,2017-06-13 18:31:07 UTC,-102,41.3721747,2.1467031,13461,42535,Spain,Catalonia,Barcelona,4G
+Movistar,samsung,SM-G925F,ANDROID70,es,2017-08-28 16:59:09 UTC,-97,43.1844509,-5.8042379,0,0,Spain,Asturias,null,4G
+Movistar,bq,Aquaris M5.5,ANDROID60,es,2017-08-06 18:04:38 UTC,-77,42.4565418,-2.4507147,2851,5649,Spain,La Rioja,LogroÃ±o,3G
+Movistar,Meizu,M3s,ANDROID51,es,2017-07-31 21:55:59 UTC,-107,27.927635,-15.3965867,39596,0,Spain,Canary Islands,Ingenio,3G
+Movistar,samsung,SM-G930F,ANDROID70,es,2017-08-12 15:14:51 UTC,null,41.4173774,2.2270586,651,580,Spain,Catalonia,Sant AdriÃ  de BesÃ²s,4G
+Movistar,samsung,SM-G935F,ANDROID70,es,2017-08-11 04:18:42 UTC,-107,41.3292536,2.0294523,161,85,Spain,Catalonia,Sant Boi de Llobregat,4G
+Movistar,TCL,5010D,ANDROID60,es,2017-08-21 06:31:51 UTC,-13,40.4469444,-3.7037525,21515,45534,Spain,Madrid,Madrid,3G
+Movistar,samsung,SM-G900H,ANDROID44,es,2017-06-15 18:50:20 UTC,null,41.4444942,2.1785401,141999,387298,Spain,Catalonia,Barcelona,3G
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-09-10 09:23:00 UTC,null,43.2583991,-2.9417891,1718,5434,Spain,Basque Country,Bilbao,3G
+Movistar,Xiaomi,Redmi Note 4,ANDROID70,es,2017-08-18 19:39:37 UTC,-100,38.4064855,-0.4241539,2039,984,Spain,Valenciana,San Juan de Alicante,4G
+Movistar,samsung,SM-G935F,ANDROID70,es,2017-09-09 16:10:49 UTC,-107,37.6570699,-0.8944821,0,0,Spain,Murcia,Cartagena,4G
+Movistar,bq,Aquaris X5 Plus,ANDROID71,es,2017-06-14 05:48:18 UTC,null,39.6004869,2.6595034,7458,34280,Spain,Balearic Islands,Palma de Mallorca,4G
+Movistar,samsung,GT-I9060I,ANDROID44,ca,2017-05-03 19:40:10 UTC,null,41.171832,1.020144302,52235,72345,Spain,Catalonia,null,UNKNOWN
+Movistar,bq,Aquaris M5,ANDROID60,es,2017-08-03 12:27:36 UTC,null,36.8136751,-2.565927,4005,3041,Spain,AndalusÃ­a,Roquetas de Mar,UNKNOWN
+Movistar,HUAWEI,G7-L01,ANDROID44,es,2017-09-12 18:05:13 UTC,-111,36.6044517,-6.2606627,51052,15942,Spain,AndalusÃ­a,El Puerto de Santa MarÃ­a,4G
