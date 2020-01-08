@@ -1,4 +1,4 @@
-﻿InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,CountryName
 536382,10002,INFLATABLE POLITICAL GLOBE ,12,12/1/2010 9:45,0.85,16098,United Kingdom
 536365,71053,WHITE METAL LANTERN,6,12/1/2010 8:26,3.39,17850,United Kingdom
 536365,84406B,CREAM CUPID HEARTS COAT HANGER,8,12/1/2010 8:26,2.75,17850,United Kingdom
