@@ -1,4 +1,4 @@
-COMPANY NAME,INDUSTRY,ADDRESS,CITY,STATE,ZIP,COUNTY,PHONE,WEBSITE URL,CEO,CONTACT TITLE,NUMBER OF EMPLOYEES,EMPLOYEE SIZE,SALES,SALES RANGE,SIC CODE,SIC DESCRIPTION,NAICS CODE,LATITUDE,LONGITUDE
+COMPANY NAME,INDUSTRY,ADDRESS,CITY,STATE,ZIP,COUNTY,CEO p,WEBSITE URL,CEO,CONTACT TITLE,NUMBER OF EMPLOYEES,EMPLOYEE SIZE,SALES,SALES RANGE,SIC CODE,SIC DESCRIPTION,NAICS CODE,LATITUDE,LONGITUDE
 "Agilent Technologies, Inc. Common Stock",Professional Services,1140 Scenic Drive # 100,Modesto,CA,95350,Stanislaus,214-808-1234,athertoncpas.com,Linda Stanley,,22,,3806000,,8721,"Accounting, Auditing, and Bookkeeping Services",541211,37.648247,120.97759
 Alcoa Inc. Common Stock,Warehousing & Storage,1845 South 4th St,El Centro,CA,92243,Imperial,214-808-1235,elcentrointerstate.com,Steve Gray,Owner,,1 - 4,,"$100,000 - $500,000",4225,General Warehousing and Storage,531130,32.77682,115.55223
 Alcoa Inc. $3.75 Preferred Stock,Legal,688 North Arrowhead Avenue,San Bernardino,CA,92401,San Bernardino,214-808-1236,robertgrantlaw.com,Robert Grant,Owner,,1 - 4,,"$100,000 - $500,000",8111,Legal Services,541110,34.11173,117.2897
